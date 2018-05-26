@@ -1,0 +1,12 @@
+[
+    {
+        "bat": ["player1","player2","player3"],
+        "bow": ["player3","player4","player5"],
+        "fld": ["player6","player7","player8"]
+    },
+    {
+        "bat": ["player9","player10","player11"],
+        "bow": ["player12","player13","player14"],
+        "fld": ["player15","player16","player17"]
+    }
+]

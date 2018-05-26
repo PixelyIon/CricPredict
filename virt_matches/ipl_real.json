@@ -1,0 +1,12 @@
+[
+    {
+        "bat": ["SA Yadav","E Lewis","JP Duminy","RG Sharma","HH Pandya","KH Pandya","BCJ Cutting"],
+        "bow": ["JP Duminy","HH Pandya","KH Pandya","BCJ Cutting","MJ McClenaghan","JJ Bumrah"],
+        "fld": ["SA Yadav","E Lewis","Ishan Kishan","JP Duminy","HH Pandya","KH Pandya","BCJ Cutting","MJ McClenaghan","JJ Bumrah"]
+    },
+    {
+        "bat": ["CH Gayle","MA Agarwal","KK Nair","Yuvraj Singh","MP Stoinis","AR Patel"],
+        "bow": ["Yuvraj Singh","MP Stoinis","R Ashwin","AR Patel","AJ Tye","AS Rajpoot","Mujeeb-ur-Rehman"],
+        "fld": ["KL Rahul","CH Gayle","MA Agarwal","KK Nair","Yuvraj Singh","MP Stoinis","R Ashwin","AR Patel","AJ Tye","AS Rajpoot","Mujeeb-ur-Rehman"]
+    }
+]

@@ -1,0 +1,8093 @@
+{
+	"SC Ganguly": {
+		"bat_overs": 212,
+		"runs": 1464,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 45,
+		"wickets": 4,
+		"bow_matches": 11,
+		"matches": 57,
+		"caught": 22,
+		"runout": 1,
+		"bat_matches": 38,
+		"rr": 7,
+		"sr": 70,
+		"carpm": 0.40350877192982454
+	},
+	"P Kumar": {
+		"bow_overs": 422,
+		"wickets": 14,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 13,
+		"runout": 7,
+		"bat_overs": 52,
+		"runs": 363,
+		"bat_matches": 25,
+		"matches": 119,
+		"bow_matches": 91,
+		"rr": 7,
+		"sr": 188,
+		"carpm": 0.16806722689075632
+	},
+	"BB McCullum": {
+		"bat_overs": 349,
+		"runs": 2965,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 36,
+		"runout": 14,
+		"matches": 103,
+		"bat_matches": 82,
+		"rr": 8,
+		"carpm": 0.4854368932038835
+	},
+	"Z Khan": {
+		"bow_overs": 364,
+		"wickets": 22,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 23,
+		"runs": 121,
+		"bat_matches": 15,
+		"matches": 99,
+		"caught": 20,
+		"runout": 7,
+		"bow_matches": 80,
+		"rr": 5,
+		"sr": 103,
+		"carpm": 0.2727272727272727
+	},
+	"AA Noffke": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 2,
+		"runs": 11,
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 6
+	},
+	"JH Kallis": {
+		"caught": 30,
+		"runout": 6,
+		"type": [
+			"fielder",
+			"bowler",
+			"batsman"
+		],
+		"bow_overs": 288,
+		"wickets": 18,
+		"bat_overs": 367,
+		"runs": 2567,
+		"bat_matches": 60,
+		"matches": 98,
+		"bow_matches": 34,
+		"rr": 7,
+		"sr": 100,
+		"carpm": 0.3673469387755102
+	},
+	"RT Ponting": {
+		"bat_overs": 21,
+		"runs": 104,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 4,
+		"runout": 0,
+		"matches": 9,
+		"bat_matches": 6,
+		"rr": 5,
+		"carpm": 0.4444444444444444
+	},
+	"SB Joshi": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 3,
+		"runs": 8,
+		"bat_matches": 1,
+		"matches": 4,
+		"bow_matches": 3,
+		"rr": 3
+	},
+	"DJ Hussey": {
+		"bat_overs": 176,
+		"runs": 1384,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 42,
+		"matches": 63,
+		"bow_overs": 52,
+		"wickets": 1,
+		"caught": 25,
+		"runout": 5,
+		"bow_matches": 7,
+		"rr": 8,
+		"sr": 325,
+		"carpm": 0.47619047619047616
+	},
+	"CL White": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 22,
+		"runout": 4,
+		"bat_overs": 124,
+		"runs": 1000,
+		"bat_matches": 31,
+		"matches": 47,
+		"bow_matches": 3,
+		"rr": 8,
+		"carpm": 0.5531914893617021
+	},
+	"Mohammad Hafeez": {
+		"bat_overs": 13,
+		"runs": 69,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 8,
+		"bow_overs": 10,
+		"wickets": 1,
+		"caught": 1,
+		"runout": 1,
+		"bow_matches": 2,
+		"rr": 5,
+		"sr": 63,
+		"carpm": 0.25
+	},
+	"R Dravid": {
+		"bat_overs": 307,
+		"runs": 2270,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 73,
+		"matches": 88,
+		"caught": 18,
+		"runout": 8,
+		"rr": 7,
+		"carpm": 0.29545454545454547
+	},
+	"AB Dinda": {
+		"bow_overs": 254,
+		"wickets": 14,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 62,
+		"matches": 76,
+		"caught": 7,
+		"runout": 5,
+		"bat_overs": 8,
+		"runs": 30,
+		"bat_matches": 10,
+		"rr": 4,
+		"sr": 113,
+		"carpm": 0.15789473684210525
+	},
+	"W Jaffer": {
+		"bat_overs": 21,
+		"runs": 139,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 8,
+		"caught": 4,
+		"runout": 1,
+		"rr": 7,
+		"carpm": 0.625
+	},
+	"I Sharma": {
+		"bow_overs": 274,
+		"wickets": 13,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 61,
+		"matches": 76,
+		"bat_overs": 9,
+		"runs": 48,
+		"caught": 15,
+		"runout": 2,
+		"bat_matches": 10,
+		"rr": 5,
+		"sr": 132,
+		"carpm": 0.2236842105263158
+	},
+	"V Kohli": {
+		"bat_overs": 559,
+		"runs": 4588,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 114,
+		"matches": 144,
+		"caught": 60,
+		"runout": 15,
+		"bow_overs": 42,
+		"wickets": 1,
+		"bow_matches": 8,
+		"rr": 8,
+		"sr": 263,
+		"carpm": 0.5208333333333334
+	},
+	"AB Agarkar": {
+		"bow_overs": 131,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 4,
+		"runout": 3,
+		"matches": 42,
+		"bow_matches": 32,
+		"bat_overs": 26,
+		"runs": 193,
+		"bat_matches": 7,
+		"rr": 7,
+		"sr": 164,
+		"carpm": 0.16666666666666666
+	},
+	"M Kartik": {
+		"caught": 18,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"bowler",
+			"batsman"
+		],
+		"matches": 56,
+		"bow_overs": 189,
+		"wickets": 4,
+		"bow_matches": 44,
+		"bat_overs": 17,
+		"runs": 119,
+		"bat_matches": 5,
+		"rr": 7,
+		"sr": 295,
+		"carpm": 0.375
+	},
+	"MV Boucher": {
+		"bat_overs": 51,
+		"runs": 416,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 17,
+		"matches": 29,
+		"caught": 14,
+		"runout": 7,
+		"rr": 8,
+		"carpm": 0.7241379310344828
+	},
+	"B Akhil": {
+		"bat_overs": 9,
+		"runs": 80,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 7,
+		"matches": 15,
+		"bow_overs": 31,
+		"wickets": 1,
+		"caught": 3,
+		"runout": 1,
+		"bow_matches": 7,
+		"rr": 9,
+		"sr": 194,
+		"carpm": 0.26666666666666666
+	},
+	"WP Saha": {
+		"caught": 51,
+		"runout": 11,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 91,
+		"bat_overs": 195,
+		"runs": 1624,
+		"bat_matches": 57,
+		"rr": 8,
+		"carpm": 0.6813186813186813
+	},
+	"LR Shukla": {
+		"bow_overs": 52,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 19,
+		"matches": 44,
+		"caught": 13,
+		"runout": 6,
+		"bat_overs": 57,
+		"runs": 432,
+		"bat_matches": 20,
+		"rr": 8,
+		"sr": 65,
+		"carpm": 0.4318181818181818
+	},
+	"PA Patel": {
+		"bat_overs": 330,
+		"runs": 2490,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 60,
+		"runout": 26,
+		"matches": 116,
+		"bat_matches": 81,
+		"rr": 8,
+		"carpm": 0.7413793103448276
+	},
+	"B Lee": {
+		"bow_overs": 147,
+		"wickets": 6,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 28,
+		"matches": 38,
+		"bat_overs": 16,
+		"runs": 133,
+		"caught": 8,
+		"runout": 6,
+		"bat_matches": 8,
+		"rr": 8,
+		"sr": 153,
+		"carpm": 0.3684210526315789
+	},
+	"ML Hayden": {
+		"bat_overs": 134,
+		"runs": 1205,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 26,
+		"matches": 32,
+		"caught": 11,
+		"runout": 3,
+		"rr": 9,
+		"carpm": 0.4375
+	},
+	"S Sreesanth": {
+		"bow_overs": 152,
+		"wickets": 7,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 38,
+		"matches": 44,
+		"bat_overs": 9,
+		"runs": 44,
+		"caught": 3,
+		"runout": 0,
+		"bat_matches": 5,
+		"rr": 5,
+		"sr": 136,
+		"carpm": 0.06818181818181818
+	},
+	"KC Sangakkara": {
+		"caught": 45,
+		"runout": 11,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 228,
+		"runs": 1780,
+		"bat_matches": 45,
+		"matches": 68,
+		"rr": 8,
+		"carpm": 0.8235294117647058
+	},
+	"MEK Hussey": {
+		"bat_overs": 264,
+		"runs": 2064,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 45,
+		"matches": 58,
+		"caught": 26,
+		"runout": 1,
+		"rr": 8,
+		"carpm": 0.46551724137931033
+	},
+	"JR Hopes": {
+		"bow_overs": 59,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 50,
+		"runs": 433,
+		"bat_matches": 12,
+		"matches": 20,
+		"bow_matches": 5,
+		"caught": 5,
+		"runout": 0,
+		"rr": 9,
+		"sr": 369,
+		"carpm": 0.25
+	},
+	"IK Pathan": {
+		"bow_overs": 338,
+		"wickets": 22,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 28,
+		"runout": 8,
+		"bat_overs": 158,
+		"runs": 1250,
+		"bat_matches": 41,
+		"matches": 102,
+		"bow_matches": 55,
+		"rr": 8,
+		"sr": 96,
+		"carpm": 0.35294117647058826
+	},
+	"MS Dhoni": {
+		"bat_overs": 429,
+		"runs": 3728,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 90,
+		"matches": 151,
+		"caught": 76,
+		"runout": 43,
+		"rr": 9,
+		"carpm": 0.7880794701986755
+	},
+	"SK Raina": {
+		"bat_overs": 539,
+		"runs": 4745,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 92,
+		"matches": 158,
+		"caught": 83,
+		"runout": 13,
+		"bow_overs": 148,
+		"wickets": 1,
+		"bow_matches": 39,
+		"rr": 9,
+		"sr": 925,
+		"carpm": 0.6075949367088608
+	},
+	"K Goel": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 38,
+		"runs": 234,
+		"bat_matches": 13,
+		"matches": 20,
+		"caught": 9,
+		"runout": 1,
+		"bow_matches": 1,
+		"rr": 6,
+		"carpm": 0.5
+	},
+	"PP Chawla": {
+		"bow_overs": 415,
+		"wickets": 37,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 84,
+		"matches": 129,
+		"bat_overs": 75,
+		"runs": 548,
+		"caught": 27,
+		"runout": 10,
+		"bat_matches": 32,
+		"rr": 7,
+		"sr": 70,
+		"carpm": 0.2868217054263566
+	},
+	"WA Mota": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 4,
+		"matches": 11,
+		"bat_overs": 12,
+		"runs": 63,
+		"caught": 5,
+		"runout": 1,
+		"bat_matches": 3,
+		"rr": 5,
+		"carpm": 0.5454545454545454
+	},
+	"JDP Oram": {
+		"bat_overs": 18,
+		"runs": 110,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 11,
+		"matches": 15,
+		"caught": 7,
+		"runout": 2,
+		"bat_matches": 2,
+		"rr": 6,
+		"carpm": 0.6
+	},
+	"S Badrinath": {
+		"bat_overs": 199,
+		"runs": 1515,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 57,
+		"matches": 71,
+		"caught": 16,
+		"runout": 5,
+		"rr": 8,
+		"carpm": 0.29577464788732394
+	},
+	"MS Gony": {
+		"bow_overs": 148,
+		"wickets": 12,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 33,
+		"matches": 44,
+		"bat_overs": 12,
+		"runs": 106,
+		"bat_matches": 8,
+		"caught": 4,
+		"runout": 2,
+		"rr": 9,
+		"sr": 77,
+		"carpm": 0.13636363636363635
+	},
+	"M Muralitharan": {
+		"bow_overs": 253,
+		"wickets": 13,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 57,
+		"matches": 66,
+		"caught": 14,
+		"runout": 3,
+		"bat_overs": 5,
+		"runs": 22,
+		"bat_matches": 4,
+		"rr": 4,
+		"sr": 122,
+		"carpm": 0.25757575757575757
+	},
+	"P Amarnath": {
+		"bow_overs": 21,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"caught": 2,
+		"runout": 0,
+		"bow_matches": 6,
+		"matches": 6,
+		"sr": 131,
+		"carpm": 0.3333333333333333
+	},
+	"Joginder Sharma": {
+		"bow_overs": 44,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 5,
+		"runout": 2,
+		"bow_matches": 11,
+		"matches": 16,
+		"bat_overs": 5,
+		"runs": 36,
+		"bat_matches": 4,
+		"rr": 7,
+		"sr": 92,
+		"carpm": 0.4375
+	},
+	"Yuvraj Singh": {
+		"bat_overs": 328,
+		"runs": 2710,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 76,
+		"matches": 118,
+		"caught": 28,
+		"runout": 10,
+		"bow_overs": 139,
+		"wickets": 9,
+		"bow_matches": 33,
+		"rr": 8,
+		"sr": 97,
+		"carpm": 0.3220338983050847
+	},
+	"SM Katich": {
+		"bat_overs": 31,
+		"runs": 254,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 11,
+		"matches": 11,
+		"caught": 2,
+		"runout": 2,
+		"rr": 8,
+		"carpm": 0.36363636363636365
+	},
+	"T Kohli": {
+		"bat_overs": 3,
+		"runs": 12,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 4,
+		"carpm": 0.3333333333333333
+	},
+	"GD McGrath": {
+		"bow_overs": 53,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 11,
+		"matches": 14,
+		"caught": 2,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 4,
+		"bat_matches": 2,
+		"rr": 4,
+		"sr": 331,
+		"carpm": 0.14285714285714285
+	},
+	"YK Pathan": {
+		"bat_overs": 332,
+		"runs": 3066,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 187,
+		"wickets": 9,
+		"bow_matches": 35,
+		"matches": 142,
+		"bat_matches": 93,
+		"caught": 37,
+		"runout": 10,
+		"rr": 9,
+		"sr": 130,
+		"carpm": 0.33098591549295775
+	},
+	"B Geeves": {
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"caught": 3,
+		"runout": 1,
+		"bow_matches": 1,
+		"matches": 2,
+		"carpm": 2
+	},
+	"M Manhas": {
+		"caught": 20,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"matches": 41,
+		"bat_overs": 78,
+		"runs": 544,
+		"bat_matches": 32,
+		"bow_matches": 1,
+		"rr": 7,
+		"carpm": 0.5609756097560976
+	},
+	"SR Watson": {
+		"bat_overs": 312,
+		"runs": 2744,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 314,
+		"wickets": 16,
+		"bow_matches": 40,
+		"matches": 102,
+		"bat_matches": 56,
+		"caught": 27,
+		"runout": 9,
+		"rr": 9,
+		"sr": 123,
+		"carpm": 0.35294117647058826
+	},
+	"M Kaif": {
+		"bat_overs": 41,
+		"runs": 280,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 17,
+		"matches": 26,
+		"caught": 15,
+		"runout": 1,
+		"rr": 7,
+		"carpm": 0.6153846153846154
+	},
+	"MF Maharoof": {
+		"bow_overs": 71,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 13,
+		"matches": 20,
+		"bat_overs": 20,
+		"runs": 181,
+		"caught": 4,
+		"runout": 2,
+		"bat_matches": 7,
+		"rr": 9,
+		"sr": 89,
+		"carpm": 0.3
+	},
+	"R Bhatia": {
+		"bow_overs": 266,
+		"wickets": 19,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 23,
+		"runout": 9,
+		"bow_matches": 62,
+		"matches": 95,
+		"bat_overs": 46,
+		"runs": 356,
+		"bat_matches": 25,
+		"rr": 8,
+		"sr": 88,
+		"carpm": 0.3368421052631579
+	},
+	"S Dhawan": {
+		"caught": 51,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"bat_overs": 481,
+		"runs": 3754,
+		"bat_matches": 95,
+		"matches": 126,
+		"bow_overs": 8,
+		"wickets": 1,
+		"bow_matches": 4,
+		"rr": 8,
+		"sr": 50,
+		"carpm": 0.42857142857142855
+	},
+	"DS Lehmann": {
+		"bat_overs": 3,
+		"runs": 20,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 7
+	},
+	"RA Jadeja": {
+		"bat_overs": 233,
+		"runs": 1826,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 58,
+		"matches": 134,
+		"caught": 40,
+		"runout": 23,
+		"bow_overs": 314,
+		"wickets": 19,
+		"bow_matches": 61,
+		"rr": 8,
+		"sr": 103,
+		"carpm": 0.4701492537313433
+	},
+	"M Rawat": {
+		"bat_overs": 11,
+		"runs": 59,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 9,
+		"matches": 15,
+		"caught": 16,
+		"runout": 9,
+		"rr": 5,
+		"carpm": 1.6666666666666667
+	},
+	"DL Vettori": {
+		"bow_overs": 126,
+		"wickets": 7,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 21,
+		"matches": 34,
+		"caught": 11,
+		"runout": 4,
+		"bat_overs": 19,
+		"runs": 141,
+		"bat_matches": 9,
+		"rr": 7,
+		"sr": 113,
+		"carpm": 0.4411764705882353
+	},
+	"D Salunkhe": {
+		"bat_overs": 4,
+		"runs": 33,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 3,
+		"matches": 5,
+		"caught": 2,
+		"runout": 0,
+		"bat_matches": 2,
+		"rr": 8,
+		"carpm": 0.4
+	},
+	"SK Warne": {
+		"bat_overs": 35,
+		"runs": 210,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 196,
+		"wickets": 6,
+		"bow_matches": 38,
+		"matches": 55,
+		"bat_matches": 15,
+		"caught": 11,
+		"runout": 3,
+		"rr": 6,
+		"sr": 204,
+		"carpm": 0.2545454545454545
+	},
+	"SK Trivedi": {
+		"bat_overs": 10,
+		"runs": 47,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 249,
+		"wickets": 15,
+		"bow_matches": 68,
+		"matches": 76,
+		"caught": 12,
+		"runout": 4,
+		"bat_matches": 7,
+		"rr": 5,
+		"sr": 104,
+		"carpm": 0.21052631578947367
+	},
+	"G Gambhir": {
+		"bat_overs": 549,
+		"runs": 4388,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 136,
+		"matches": 146,
+		"caught": 27,
+		"runout": 8,
+		"rr": 8,
+		"carpm": 0.23972602739726026
+	},
+	"MM Patel": {
+		"bow_overs": 221,
+		"wickets": 12,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 52,
+		"matches": 63,
+		"caught": 12,
+		"runout": 2,
+		"bat_overs": 7,
+		"runs": 40,
+		"bat_matches": 6,
+		"rr": 6,
+		"sr": 115,
+		"carpm": 0.2222222222222222
+	},
+	"V Sehwag": {
+		"bat_overs": 293,
+		"runs": 2915,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 84,
+		"matches": 104,
+		"caught": 34,
+		"runout": 8,
+		"bow_overs": 22,
+		"wickets": 2,
+		"bow_matches": 6,
+		"rr": 10,
+		"sr": 69,
+		"carpm": 0.40384615384615385
+	},
+	"L Ronchi": {
+		"bat_overs": 6,
+		"runs": 37,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 4,
+		"runout": 2,
+		"matches": 5,
+		"bat_matches": 3,
+		"rr": 6,
+		"carpm": 1.2
+	},
+	"ST Jayasuriya": {
+		"bat_overs": 92,
+		"runs": 843,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 48,
+		"wickets": 2,
+		"bow_matches": 14,
+		"matches": 30,
+		"bat_matches": 15,
+		"caught": 4,
+		"runout": 5,
+		"rr": 9,
+		"sr": 150,
+		"carpm": 0.3
+	},
+	"DJ Thornely": {
+		"bat_overs": 9,
+		"runs": 53,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 5,
+		"caught": 2,
+		"runout": 0,
+		"bow_matches": 2,
+		"rr": 6,
+		"carpm": 0.4
+	},
+	"RV Uthappa": {
+		"bat_overs": 474,
+		"runs": 4004,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 113,
+		"matches": 146,
+		"caught": 75,
+		"runout": 44,
+		"rr": 8,
+		"carpm": 0.815068493150685
+	},
+	"PR Shah": {
+		"bat_overs": 16,
+		"runs": 104,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 15,
+		"caught": 10,
+		"runout": 3,
+		"rr": 7,
+		"carpm": 0.8666666666666667
+	},
+	"R Vinay Kumar": {
+		"bow_overs": 346,
+		"wickets": 13,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 79,
+		"matches": 102,
+		"bat_overs": 46,
+		"runs": 331,
+		"caught": 29,
+		"runout": 13,
+		"bat_matches": 18,
+		"rr": 7,
+		"sr": 166,
+		"carpm": 0.4117647058823529
+	},
+	"AM Nayar": {
+		"bat_overs": 94,
+		"runs": 722,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 13,
+		"runout": 1,
+		"bow_overs": 38,
+		"wickets": 1,
+		"matches": 51,
+		"bat_matches": 36,
+		"bow_matches": 10,
+		"rr": 8,
+		"sr": 238,
+		"carpm": 0.27450980392156865
+	},
+	"SM Pollock": {
+		"bat_overs": 19,
+		"runs": 154,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 10,
+		"matches": 13,
+		"bat_matches": 3,
+		"caught": 2,
+		"runout": 1,
+		"rr": 8,
+		"carpm": 0.23076923076923078
+	},
+	"Harbhajan Singh": {
+		"bat_overs": 95,
+		"runs": 856,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 478,
+		"wickets": 26,
+		"bow_matches": 89,
+		"matches": 136,
+		"caught": 30,
+		"runout": 10,
+		"bat_matches": 41,
+		"rr": 9,
+		"sr": 115,
+		"carpm": 0.29411764705882354
+	},
+	"S Chanderpaul": {
+		"bat_overs": 5,
+		"runs": 27,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 5
+	},
+	"A Nehra": {
+		"bow_overs": 316,
+		"wickets": 23,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 76,
+		"matches": 88,
+		"bat_overs": 10,
+		"runs": 49,
+		"bat_matches": 8,
+		"caught": 17,
+		"runout": 2,
+		"rr": 5,
+		"sr": 86,
+		"carpm": 0.2159090909090909
+	},
+	"DS Kulkarni": {
+		"bow_overs": 238,
+		"wickets": 9,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 60,
+		"matches": 72,
+		"caught": 12,
+		"runout": 2,
+		"bat_overs": 16,
+		"runs": 97,
+		"bat_matches": 11,
+		"rr": 6,
+		"sr": 165,
+		"carpm": 0.19444444444444445
+	},
+	"LRPL Taylor": {
+		"bat_overs": 136,
+		"runs": 1084,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 51,
+		"matches": 55,
+		"caught": 18,
+		"runout": 1,
+		"bow_matches": 1,
+		"rr": 8,
+		"carpm": 0.34545454545454546
+	},
+	"AC Gilchrist": {
+		"bat_overs": 249,
+		"runs": 2215,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 55,
+		"matches": 80,
+		"caught": 51,
+		"runout": 20,
+		"bow_matches": 1,
+		"rr": 9,
+		"carpm": 0.8875
+	},
+	"Y Venugopal Rao": {
+		"bat_overs": 138,
+		"runs": 1051,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 40,
+		"matches": 58,
+		"bow_overs": 36,
+		"wickets": 1,
+		"bow_matches": 12,
+		"caught": 13,
+		"runout": 3,
+		"rr": 8,
+		"sr": 225,
+		"carpm": 0.27586206896551724
+	},
+	"VVS Laxman": {
+		"bat_overs": 43,
+		"runs": 296,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 19,
+		"matches": 20,
+		"caught": 4,
+		"runout": 1,
+		"rr": 7,
+		"carpm": 0.25
+	},
+	"A Symonds": {
+		"bat_overs": 125,
+		"runs": 1028,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 20,
+		"runout": 1,
+		"matches": 36,
+		"bow_overs": 84,
+		"wickets": 2,
+		"bow_matches": 11,
+		"bat_matches": 19,
+		"rr": 8,
+		"sr": 263,
+		"carpm": 0.5833333333333334
+	},
+	"RG Sharma": {
+		"bat_overs": 524,
+		"runs": 4334,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 70,
+		"runout": 9,
+		"matches": 156,
+		"bat_matches": 112,
+		"bow_overs": 55,
+		"wickets": 5,
+		"bow_matches": 14,
+		"rr": 8,
+		"sr": 69,
+		"carpm": 0.5064102564102564
+	},
+	"SB Styris": {
+		"bat_overs": 21,
+		"runs": 139,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 2,
+		"runout": 2,
+		"bow_matches": 7,
+		"matches": 12,
+		"bat_matches": 4,
+		"rr": 7,
+		"carpm": 0.3333333333333333
+	},
+	"AS Yadav": {
+		"bat_overs": 6,
+		"runs": 52,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 6,
+		"caught": 1,
+		"runout": 1,
+		"rr": 9,
+		"carpm": 0.3333333333333333
+	},
+	"SB Bangar": {
+		"bat_overs": 9,
+		"runs": 53,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 7,
+		"matches": 11,
+		"bow_overs": 21,
+		"wickets": 1,
+		"caught": 2,
+		"runout": 2,
+		"bat_matches": 3,
+		"rr": 6,
+		"sr": 131,
+		"carpm": 0.36363636363636365
+	},
+	"WPUJC Vaas": {
+		"bat_overs": 12,
+		"runs": 84,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 46,
+		"wickets": 3,
+		"bow_matches": 10,
+		"matches": 13,
+		"bat_matches": 3,
+		"caught": 0,
+		"runout": 1,
+		"rr": 7,
+		"sr": 96,
+		"carpm": 0.07692307692307693
+	},
+	"RP Singh": {
+		"bat_overs": 12,
+		"runs": 59,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 300,
+		"wickets": 25,
+		"bow_matches": 62,
+		"matches": 82,
+		"caught": 27,
+		"runout": 8,
+		"bat_matches": 15,
+		"rr": 5,
+		"sr": 75,
+		"carpm": 0.4268292682926829
+	},
+	"PP Ojha": {
+		"bow_overs": 311,
+		"wickets": 15,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 77,
+		"matches": 90,
+		"caught": 14,
+		"runout": 3,
+		"bat_overs": 7,
+		"runs": 22,
+		"bat_matches": 8,
+		"rr": 3,
+		"sr": 130,
+		"carpm": 0.18888888888888888
+	},
+	"DPMD Jayawardene": {
+		"bat_overs": 244,
+		"runs": 1929,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 67,
+		"matches": 80,
+		"caught": 33,
+		"runout": 8,
+		"rr": 8,
+		"carpm": 0.5125
+	},
+	"Kamran Akmal": {
+		"caught": 5,
+		"runout": 2,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 12,
+		"runs": 132,
+		"bat_matches": 5,
+		"matches": 6,
+		"rr": 11,
+		"carpm": 1.1666666666666667
+	},
+	"Pankaj Singh": {
+		"bow_overs": 50,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 12,
+		"matches": 17,
+		"bat_overs": 2,
+		"runs": 7,
+		"bat_matches": 3,
+		"caught": 2,
+		"runout": 0,
+		"rr": 4,
+		"sr": 156,
+		"carpm": 0.11764705882352941
+	},
+	"S Sohal": {
+		"bat_overs": 50,
+		"runs": 400,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 20,
+		"matches": 20,
+		"caught": 2,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.1
+	},
+	"Mohammad Asif": {
+		"bow_overs": 32,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 6,
+		"matches": 8,
+		"bat_overs": 1,
+		"runs": 3,
+		"bat_matches": 2,
+		"rr": 3,
+		"sr": 100
+	},
+	"VY Mahesh": {
+		"bow_overs": 57,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 13,
+		"matches": 17,
+		"bat_overs": 4,
+		"runs": 21,
+		"caught": 6,
+		"runout": 0,
+		"bat_matches": 3,
+		"rr": 5,
+		"sr": 71,
+		"carpm": 0.35294117647058826
+	},
+	"KD Karthik": {
+		"caught": 88,
+		"runout": 36,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 147,
+		"bat_overs": 378,
+		"runs": 3036,
+		"bat_matches": 99,
+		"rr": 8,
+		"carpm": 0.8435374149659864
+	},
+	"Shahid Afridi": {
+		"bat_overs": 7,
+		"runs": 82,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 30,
+		"wickets": 1,
+		"bow_matches": 6,
+		"matches": 10,
+		"caught": 4,
+		"runout": 0,
+		"bat_matches": 4,
+		"rr": 12,
+		"sr": 188,
+		"carpm": 0.4
+	},
+	"MK Tiwary": {
+		"caught": 42,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"matches": 88,
+		"bat_overs": 231,
+		"runs": 1728,
+		"bat_matches": 61,
+		"bow_matches": 3,
+		"rr": 7,
+		"carpm": 0.5113636363636364
+	},
+	"DJ Bravo": {
+		"bow_overs": 338,
+		"wickets": 18,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 52,
+		"runout": 13,
+		"bat_overs": 165,
+		"runs": 1335,
+		"bat_matches": 40,
+		"matches": 105,
+		"bow_matches": 57,
+		"rr": 8,
+		"sr": 117,
+		"carpm": 0.6190476190476191
+	},
+	"VS Yeligati": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 1,
+		"matches": 2,
+		"bat_matches": 1
+	},
+	"MA Khote": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 4,
+		"runs": 27,
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 7
+	},
+	"GC Smith": {
+		"bat_overs": 111,
+		"runs": 800,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 27,
+		"matches": 29,
+		"caught": 7,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.2413793103448276
+	},
+	"D Kalyankrishna": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 1,
+		"runout": 0,
+		"matches": 3,
+		"bow_matches": 2,
+		"bat_overs": 1,
+		"runs": 4,
+		"rr": 4,
+		"carpm": 0.3333333333333333
+	},
+	"RR Sarwan": {
+		"bat_overs": 12,
+		"runs": 77,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 1,
+		"runout": 0,
+		"matches": 4,
+		"bat_matches": 3,
+		"rr": 6,
+		"carpm": 0.25
+	},
+	"AM Rahane (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"VRV Singh": {
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 59,
+		"wickets": 4,
+		"bow_matches": 17,
+		"matches": 18,
+		"bat_matches": 1,
+		"caught": 3,
+		"runout": 0,
+		"sr": 92,
+		"carpm": 0.16666666666666666
+	},
+	"SS Tiwary": {
+		"bat_overs": 178,
+		"runs": 1356,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 56,
+		"matches": 68,
+		"caught": 23,
+		"runout": 5,
+		"rr": 8,
+		"carpm": 0.4117647058823529
+	},
+	"Sohail Tanvir": {
+		"bow_overs": 42,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 4,
+		"runout": 3,
+		"bow_matches": 8,
+		"matches": 11,
+		"bat_overs": 5,
+		"runs": 40,
+		"bat_matches": 2,
+		"rr": 8,
+		"sr": 33,
+		"carpm": 0.6363636363636364
+	},
+	"A Kumble": {
+		"bow_overs": 157,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 9,
+		"runout": 0,
+		"matches": 42,
+		"bow_matches": 29,
+		"bat_overs": 8,
+		"runs": 42,
+		"bat_matches": 10,
+		"rr": 5,
+		"sr": 123,
+		"carpm": 0.21428571428571427
+	},
+	"DNT Zoysa": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 2,
+		"matches": 3,
+		"bat_overs": 1,
+		"runs": 13,
+		"bat_matches": 1,
+		"rr": 13
+	},
+	"AM Rahane": {
+		"bat_overs": 416,
+		"runs": 3191,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 90,
+		"matches": 106,
+		"caught": 45,
+		"runout": 7,
+		"bow_overs": 1,
+		"wickets": 1,
+		"rr": 8,
+		"sr": 6,
+		"carpm": 0.49056603773584906
+	},
+	"SD Chitnis": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 1,
+		"matches": 10,
+		"bat_overs": 15,
+		"runs": 104,
+		"bat_matches": 7,
+		"caught": 2,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.2
+	},
+	"Shoaib Malik": {
+		"bat_overs": 8,
+		"runs": 57,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 3,
+		"matches": 6,
+		"caught": 4,
+		"runout": 0,
+		"bat_matches": 1,
+		"rr": 7,
+		"carpm": 0.6666666666666666
+	},
+	"TM Srivastava": {
+		"bat_overs": 2,
+		"runs": 8,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 4,
+		"caught": 2,
+		"runout": 2,
+		"rr": 4,
+		"carpm": 1
+	},
+	"DW Steyn": {
+		"bow_overs": 345,
+		"wickets": 25,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 26,
+		"runs": 178,
+		"bat_matches": 14,
+		"matches": 90,
+		"bow_matches": 70,
+		"caught": 22,
+		"runout": 4,
+		"rr": 7,
+		"sr": 86,
+		"carpm": 0.28888888888888886
+	},
+	"R Vinay Kumar (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"B Chipli": {
+		"bat_overs": 41,
+		"runs": 292,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 18,
+		"matches": 21,
+		"caught": 3,
+		"runout": 0,
+		"bow_matches": 1,
+		"rr": 7,
+		"carpm": 0.14285714285714285
+	},
+	"JA Morkel": {
+		"bow_overs": 289,
+		"wickets": 17,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 60,
+		"matches": 90,
+		"bat_overs": 114,
+		"runs": 1026,
+		"bat_matches": 25,
+		"caught": 17,
+		"runout": 6,
+		"rr": 9,
+		"sr": 106,
+		"carpm": 0.25555555555555554
+	},
+	"DB Das": {
+		"bat_overs": 43,
+		"runs": 321,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 21,
+		"matches": 24,
+		"caught": 7,
+		"runout": 2,
+		"rr": 7,
+		"carpm": 0.375
+	},
+	"CRD Fernando": {
+		"bow_overs": 40,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 7,
+		"matches": 10,
+		"caught": 2,
+		"runout": 1,
+		"bat_matches": 2,
+		"sr": 125,
+		"carpm": 0.3
+	},
+	"MK Pandey": {
+		"bat_overs": 304,
+		"runs": 2333,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 78,
+		"matches": 96,
+		"caught": 47,
+		"runout": 14,
+		"rr": 8,
+		"carpm": 0.6354166666666666
+	},
+	"HH Gibbs": {
+		"bat_overs": 134,
+		"runs": 955,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 25,
+		"matches": 36,
+		"caught": 22,
+		"runout": 5,
+		"rr": 7,
+		"carpm": 0.75
+	},
+	"Gagandeep Singh": {
+		"bow_overs": 13,
+		"wickets": 1,
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 4,
+		"matches": 4,
+		"sr": 81
+	},
+	"SE Marsh": {
+		"caught": 26,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 306,
+		"runs": 2612,
+		"bat_matches": 58,
+		"matches": 71,
+		"rr": 9,
+		"carpm": 0.4084507042253521
+	},
+	"SA Asnodkar": {
+		"bat_overs": 56,
+		"runs": 462,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 17,
+		"matches": 19,
+		"caught": 6,
+		"runout": 1,
+		"rr": 8,
+		"carpm": 0.3684210526315789
+	},
+	"Umar Gul": {
+		"bow_overs": 24,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 0,
+		"runout": 1,
+		"bat_overs": 3,
+		"runs": 44,
+		"bat_matches": 2,
+		"matches": 6,
+		"bow_matches": 4,
+		"rr": 15,
+		"sr": 38,
+		"carpm": 0.16666666666666666
+	},
+	"Salman Butt": {
+		"bat_overs": 28,
+		"runs": 211,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 7,
+		"caught": 2,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.2857142857142857
+	},
+	"BJ Hodge": {
+		"bat_overs": 184,
+		"runs": 1477,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 45,
+		"matches": 64,
+		"caught": 22,
+		"runout": 5,
+		"bow_overs": 38,
+		"wickets": 4,
+		"bow_matches": 5,
+		"rr": 8,
+		"sr": 59,
+		"carpm": 0.421875
+	},
+	"T Kohli (sub)": {
+		"caught": 4,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 4,
+		"carpm": 1
+	},
+	"SP Fleming": {
+		"bat_overs": 27,
+		"runs": 209,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 9,
+		"matches": 10,
+		"caught": 2,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.2
+	},
+	"S Vidyut": {
+		"bat_overs": 18,
+		"runs": 156,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 8,
+		"bow_matches": 1,
+		"caught": 1,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.125
+	},
+	"PJ Sangwan": {
+		"bow_overs": 134,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 6,
+		"runout": 3,
+		"bow_matches": 30,
+		"matches": 38,
+		"bat_overs": 6,
+		"runs": 30,
+		"bat_matches": 5,
+		"rr": 5,
+		"sr": 168,
+		"carpm": 0.23684210526315788
+	},
+	"M Ntini": {
+		"bow_overs": 34,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 6,
+		"matches": 9,
+		"bat_overs": 3,
+		"runs": 12,
+		"caught": 1,
+		"runout": 2,
+		"bat_matches": 1,
+		"rr": 4,
+		"sr": 53,
+		"carpm": 0.3333333333333333
+	},
+	"AB de Villiers": {
+		"bat_overs": 384,
+		"runs": 3621,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 89,
+		"matches": 124,
+		"caught": 81,
+		"runout": 20,
+		"rr": 9,
+		"carpm": 0.8145161290322581
+	},
+	"SP Goswami": {
+		"caught": 11,
+		"runout": 8,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 21,
+		"bat_overs": 42,
+		"runs": 251,
+		"bat_matches": 8,
+		"rr": 6,
+		"carpm": 0.9047619047619048
+	},
+	"LPC Silva": {
+		"bat_overs": 4,
+		"runs": 43,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 3,
+		"runout": 1,
+		"bow_matches": 1,
+		"matches": 3,
+		"bat_matches": 1,
+		"rr": 11,
+		"carpm": 1.3333333333333333
+	},
+	"DB Ravi Teja": {
+		"bat_overs": 52,
+		"runs": 401,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"caught": 11,
+		"runout": 2,
+		"matches": 28,
+		"bat_matches": 20,
+		"rr": 8,
+		"carpm": 0.4642857142857143
+	},
+	"B Chipli (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"Misbah-ul-Haq": {
+		"bat_overs": 13,
+		"runs": 124,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 8,
+		"matches": 8,
+		"caught": 1,
+		"runout": 0,
+		"rr": 10,
+		"carpm": 0.125
+	},
+	"DP Vijaykumar": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 8,
+		"matches": 9,
+		"bat_matches": 1
+	},
+	"YV Takawale": {
+		"bat_overs": 29,
+		"runs": 207,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 16,
+		"caught": 13,
+		"runout": 5,
+		"rr": 7,
+		"carpm": 1.125
+	},
+	"RR Raje": {
+		"bat_overs": 3,
+		"runs": 20,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 23,
+		"wickets": 2,
+		"bow_matches": 8,
+		"matches": 10,
+		"caught": 3,
+		"runout": 1,
+		"bat_matches": 1,
+		"rr": 7,
+		"sr": 72,
+		"carpm": 0.4
+	},
+	"U Kaul": {
+		"caught": 2,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 4,
+		"bat_matches": 1,
+		"carpm": 1.25
+	},
+	"DT Patil": {
+		"bat_overs": 2,
+		"runs": 13,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 2,
+		"runout": 0,
+		"matches": 2,
+		"bat_matches": 1,
+		"rr": 7,
+		"carpm": 1
+	},
+	"S Anirudha": {
+		"bat_overs": 19,
+		"runs": 164,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 10,
+		"matches": 17,
+		"caught": 11,
+		"runout": 2,
+		"rr": 9,
+		"carpm": 0.7647058823529411
+	},
+	"L Balaji": {
+		"bow_overs": 252,
+		"wickets": 19,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 67,
+		"matches": 73,
+		"bat_overs": 8,
+		"runs": 41,
+		"bat_matches": 5,
+		"caught": 9,
+		"runout": 4,
+		"rr": 5,
+		"sr": 83,
+		"carpm": 0.1780821917808219
+	},
+	"CK Kapugedera": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 4,
+		"runout": 0,
+		"bat_overs": 4,
+		"runs": 19,
+		"bat_matches": 1,
+		"matches": 4,
+		"bow_matches": 1,
+		"rr": 5,
+		"carpm": 1
+	},
+	"A Chopra": {
+		"bat_overs": 12,
+		"runs": 58,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 7,
+		"caught": 2,
+		"runout": 1,
+		"rr": 5,
+		"carpm": 0.42857142857142855
+	},
+	"T Taibu": {
+		"bat_overs": 4,
+		"runs": 31,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.3333333333333333
+	},
+	"J Arunkumar": {
+		"bat_overs": 4,
+		"runs": 25,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 6
+	},
+	"SR Tendulkar": {
+		"caught": 23,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"bat_overs": 327,
+		"runs": 2537,
+		"bat_matches": 66,
+		"matches": 78,
+		"bow_matches": 2,
+		"rr": 8,
+		"carpm": 0.3333333333333333
+	},
+	"DR Smith": {
+		"bow_overs": 89,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 19,
+		"matches": 91,
+		"caught": 41,
+		"runout": 3,
+		"bat_overs": 288,
+		"runs": 2515,
+		"bat_matches": 59,
+		"rr": 9,
+		"sr": 70,
+		"carpm": 0.4835164835164835
+	},
+	"AD Mascarenhas": {
+		"bow_overs": 50,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 13,
+		"runs": 81,
+		"bat_matches": 6,
+		"matches": 13,
+		"bow_matches": 7,
+		"caught": 2,
+		"runout": 0,
+		"rr": 6,
+		"sr": 104,
+		"carpm": 0.15384615384615385
+	},
+	"TM Dilshan": {
+		"bat_overs": 168,
+		"runs": 1251,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 37,
+		"matches": 51,
+		"caught": 20,
+		"runout": 3,
+		"bow_overs": 44,
+		"wickets": 1,
+		"bow_matches": 8,
+		"rr": 7,
+		"sr": 275,
+		"carpm": 0.45098039215686275
+	},
+	"A Mishra": {
+		"bat_overs": 61,
+		"runs": 374,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 432,
+		"wickets": 21,
+		"bow_matches": 95,
+		"matches": 126,
+		"bat_matches": 25,
+		"caught": 16,
+		"runout": 9,
+		"rr": 6,
+		"sr": 129,
+		"carpm": 0.1984126984126984
+	},
+	"Niraj Patel": {
+		"caught": 6,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 20,
+		"runs": 131,
+		"bat_matches": 5,
+		"matches": 7,
+		"rr": 7,
+		"carpm": 0.8571428571428571
+	},
+	"LA Pomersbach": {
+		"bat_overs": 40,
+		"runs": 330,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 15,
+		"matches": 17,
+		"caught": 7,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.4117647058823529
+	},
+	"Iqbal Abdulla": {
+		"bat_overs": 14,
+		"runs": 97,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 151,
+		"wickets": 5,
+		"bow_matches": 35,
+		"matches": 48,
+		"caught": 12,
+		"runout": 5,
+		"bat_matches": 8,
+		"rr": 7,
+		"sr": 189,
+		"carpm": 0.3541666666666667
+	},
+	"Shoaib Akhtar": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 3,
+		"matches": 3,
+		"bat_overs": 1,
+		"runs": 3,
+		"rr": 3
+	},
+	"Younis Khan": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 1,
+		"runs": 3,
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 3,
+		"carpm": 1
+	},
+	"RR Powar": {
+		"bow_overs": 71,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 21,
+		"matches": 27,
+		"caught": 5,
+		"runout": 0,
+		"bat_overs": 10,
+		"runs": 68,
+		"bat_matches": 3,
+		"rr": 7,
+		"sr": 89,
+		"carpm": 0.18518518518518517
+	},
+	"PM Sarvesh Kumar": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 2,
+		"bow_matches": 1
+	},
+	"AB de Villiers (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 2
+	},
+	"Shoaib Malik (sub)": {
+		"caught": 2,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1.5
+	},
+	"Abdur Razzak": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1
+	},
+	"H Das": {
+		"bat_overs": 1,
+		"runs": 2,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 2
+	},
+	"A Nel": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"A Mukund": {
+		"caught": 3,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 4,
+		"runs": 20,
+		"bat_matches": 2,
+		"matches": 3,
+		"rr": 5,
+		"carpm": 1
+	},
+	"RA Jadeja (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"BAW Mendis": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 8,
+		"matches": 10,
+		"caught": 1,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 3,
+		"bat_matches": 2,
+		"rr": 3,
+		"carpm": 0.1
+	},
+	"T Thushara": {
+		"bow_overs": 23,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 3,
+		"runout": 1,
+		"bat_overs": 3,
+		"runs": 13,
+		"bat_matches": 2,
+		"matches": 6,
+		"bow_matches": 4,
+		"rr": 4,
+		"sr": 144,
+		"carpm": 0.6666666666666666
+	},
+	"A Flintoff": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 9,
+		"runs": 72,
+		"bat_matches": 2,
+		"matches": 3,
+		"caught": 3,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 1
+	},
+	"JP Duminy": {
+		"bat_overs": 261,
+		"runs": 2083,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 41,
+		"matches": 77,
+		"caught": 26,
+		"runout": 3,
+		"bow_overs": 109,
+		"wickets": 5,
+		"bow_matches": 24,
+		"rr": 8,
+		"sr": 136,
+		"carpm": 0.37662337662337664
+	},
+	"R Ashwin": {
+		"caught": 20,
+		"runout": 9,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"matches": 110,
+		"bat_overs": 39,
+		"runs": 244,
+		"bow_overs": 377,
+		"wickets": 17,
+		"bow_matches": 82,
+		"bat_matches": 19,
+		"rr": 6,
+		"sr": 139,
+		"carpm": 0.2636363636363636
+	},
+	"SL Malinga": {
+		"bow_overs": 431,
+		"wickets": 63,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 95,
+		"matches": 110,
+		"caught": 15,
+		"runout": 6,
+		"bat_overs": 16,
+		"runs": 95,
+		"bat_matches": 14,
+		"rr": 6,
+		"sr": 43,
+		"carpm": 0.19090909090909092
+	},
+	"JD Ryder": {
+		"bat_overs": 75,
+		"runs": 630,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 39,
+		"wickets": 2,
+		"caught": 10,
+		"runout": 0,
+		"bow_matches": 6,
+		"matches": 29,
+		"bat_matches": 19,
+		"rr": 8,
+		"sr": 122,
+		"carpm": 0.3448275862068966
+	},
+	"KP Pietersen": {
+		"bat_overs": 121,
+		"runs": 1039,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 30,
+		"matches": 36,
+		"bow_overs": 29,
+		"wickets": 1,
+		"caught": 12,
+		"runout": 2,
+		"bow_matches": 2,
+		"rr": 9,
+		"sr": 181,
+		"carpm": 0.3888888888888889
+	},
+	"Kamran Khan": {
+		"bow_overs": 28,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 1,
+		"runs": 3,
+		"bat_matches": 1,
+		"matches": 9,
+		"caught": 4,
+		"runout": 2,
+		"bow_matches": 8,
+		"rr": 3,
+		"sr": 44,
+		"carpm": 0.6666666666666666
+	},
+	"T Henderson": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 3,
+		"runs": 12,
+		"bat_matches": 1,
+		"matches": 2,
+		"bow_matches": 1,
+		"rr": 4
+	},
+	"RS Bopara": {
+		"bat_overs": 75,
+		"runs": 557,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 14,
+		"matches": 24,
+		"bow_overs": 34,
+		"wickets": 2,
+		"bow_matches": 8,
+		"caught": 4,
+		"runout": 0,
+		"rr": 7,
+		"sr": 106,
+		"carpm": 0.16666666666666666
+	},
+	"DP Nannes": {
+		"bow_overs": 110,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 8,
+		"runout": 2,
+		"bow_matches": 27,
+		"matches": 29,
+		"bat_overs": 2,
+		"runs": 4,
+		"bat_matches": 2,
+		"rr": 2,
+		"sr": 138,
+		"carpm": 0.3448275862068966
+	},
+	"AM Salvi": {
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 7,
+		"matches": 7,
+		"caught": 2,
+		"runout": 0,
+		"carpm": 0.2857142857142857
+	},
+	"YA Abdulla": {
+		"bow_overs": 36,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 11,
+		"matches": 11,
+		"sr": 56
+	},
+	"VS Malik": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 12,
+		"matches": 13,
+		"caught": 2,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 9,
+		"bat_matches": 1,
+		"rr": 9,
+		"carpm": 0.15384615384615385
+	},
+	"FH Edwards": {
+		"bow_overs": 24,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 6,
+		"matches": 6,
+		"bat_overs": 1,
+		"runs": 4,
+		"rr": 4,
+		"sr": 150
+	},
+	"CH Gayle": {
+		"bat_overs": 405,
+		"runs": 3914,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 92,
+		"wickets": 5,
+		"bow_matches": 19,
+		"matches": 100,
+		"caught": 24,
+		"runout": 0,
+		"bat_matches": 76,
+		"rr": 10,
+		"sr": 115,
+		"carpm": 0.24
+	},
+	"Harmeet Singh": {
+		"caught": 3,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"bowler",
+			"batsman"
+		],
+		"bow_overs": 88,
+		"wickets": 6,
+		"bow_matches": 23,
+		"matches": 27,
+		"bat_overs": 2,
+		"runs": 18,
+		"bat_matches": 3,
+		"rr": 9,
+		"sr": 92,
+		"carpm": 0.2222222222222222
+	},
+	"MC Henriques": {
+		"bat_overs": 123,
+		"runs": 999,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 26,
+		"runout": 1,
+		"bow_overs": 147,
+		"wickets": 4,
+		"bow_matches": 34,
+		"matches": 57,
+		"bat_matches": 15,
+		"rr": 8,
+		"sr": 230,
+		"carpm": 0.47368421052631576
+	},
+	"R Bishnoi": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 3,
+		"runs": 19,
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 6,
+		"carpm": 0.3333333333333333
+	},
+	"Yashpal Singh": {
+		"caught": 3,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 5,
+		"bat_overs": 11,
+		"runs": 49,
+		"bat_matches": 4,
+		"rr": 4,
+		"carpm": 0.6
+	},
+	"KV Sharma": {
+		"caught": 9,
+		"runout": 2,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"bat_overs": 46,
+		"runs": 343,
+		"bat_matches": 14,
+		"matches": 56,
+		"bow_overs": 167,
+		"wickets": 3,
+		"bow_matches": 40,
+		"rr": 7,
+		"sr": 348,
+		"carpm": 0.19642857142857142
+	},
+	"DA Warner (sub)": {
+		"caught": 2,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 3
+	},
+	"PC Valthaty": {
+		"bat_overs": 69,
+		"runs": 539,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 18,
+		"matches": 23,
+		"caught": 3,
+		"runout": 0,
+		"bow_overs": 24,
+		"wickets": 1,
+		"bow_matches": 5,
+		"rr": 8,
+		"sr": 150,
+		"carpm": 0.13043478260869565
+	},
+	"Anureet Singh": {
+		"bow_overs": 65,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 13,
+		"matches": 19,
+		"bat_overs": 7,
+		"runs": 36,
+		"bat_matches": 5,
+		"caught": 4,
+		"runout": 1,
+		"rr": 5,
+		"sr": 81,
+		"carpm": 0.2631578947368421
+	},
+	"RJ Quiney": {
+		"bat_overs": 17,
+		"runs": 114,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 2,
+		"runout": 0,
+		"matches": 7,
+		"bat_matches": 5,
+		"rr": 7,
+		"carpm": 0.2857142857142857
+	},
+	"AS Raut": {
+		"bat_overs": 28,
+		"runs": 204,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 9,
+		"runout": 0,
+		"matches": 20,
+		"bat_matches": 13,
+		"bow_matches": 1,
+		"rr": 7,
+		"carpm": 0.45
+	},
+	"RR Bose": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"KP Appanna": {
+		"bow_overs": 36,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 9,
+		"matches": 13,
+		"bat_overs": 1,
+		"runs": 3,
+		"caught": 1,
+		"runout": 3,
+		"bat_matches": 2,
+		"rr": 3,
+		"sr": 225,
+		"carpm": 0.3076923076923077
+	},
+	"Shoaib Ahmed": {
+		"bow_overs": 16,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 4,
+		"runout": 0,
+		"bow_matches": 4,
+		"matches": 7,
+		"bat_overs": 1,
+		"runs": 1,
+		"bat_matches": 2,
+		"rr": 1,
+		"sr": 100,
+		"carpm": 0.5714285714285714
+	},
+	"AA Bilakhia": {
+		"bat_overs": 14,
+		"runs": 78,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 7,
+		"matches": 7,
+		"caught": 1,
+		"runout": 0,
+		"rr": 6,
+		"carpm": 0.14285714285714285
+	},
+	"AN Ghosh": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 1,
+		"runs": 7,
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 7,
+		"carpm": 0.5
+	},
+	"RE van der Merwe": {
+		"bow_overs": 73,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 23,
+		"runs": 170,
+		"bat_matches": 6,
+		"matches": 21,
+		"caught": 6,
+		"runout": 2,
+		"bow_matches": 15,
+		"rr": 7,
+		"sr": 91,
+		"carpm": 0.38095238095238093
+	},
+	"MN van Wyk": {
+		"bat_overs": 22,
+		"runs": 175,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 7,
+		"runout": 0,
+		"matches": 5,
+		"bat_matches": 2,
+		"rr": 8,
+		"carpm": 1.4
+	},
+	"TL Suman": {
+		"bat_overs": 94,
+		"runs": 701,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 32,
+		"matches": 43,
+		"bow_matches": 4,
+		"caught": 10,
+		"runout": 5,
+		"rr": 7,
+		"carpm": 0.3488372093023256
+	},
+	"S Tyagi": {
+		"bow_overs": 35,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 12,
+		"matches": 14,
+		"caught": 3,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 3,
+		"bat_matches": 1,
+		"rr": 3,
+		"sr": 109,
+		"carpm": 0.21428571428571427
+	},
+	"GR Napier": {
+		"bat_overs": 3,
+		"runs": 15,
+		"type": [
+			"batsman",
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1,
+		"rr": 5
+	},
+	"SM Harwood": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 2,
+		"runs": 13,
+		"bat_matches": 1,
+		"matches": 3,
+		"caught": 2,
+		"runout": 0,
+		"bow_matches": 1,
+		"rr": 7,
+		"carpm": 0.6666666666666666
+	},
+	"LA Carseldine": {
+		"bat_overs": 11,
+		"runs": 87,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 4,
+		"matches": 5,
+		"caught": 4,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.8
+	},
+	"NV Ojha": {
+		"bat_overs": 217,
+		"runs": 1642,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 61,
+		"matches": 100,
+		"caught": 65,
+		"runout": 25,
+		"rr": 8,
+		"carpm": 0.9
+	},
+	"M Vijay": {
+		"bat_overs": 335,
+		"runs": 2636,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 76,
+		"matches": 100,
+		"caught": 47,
+		"runout": 1,
+		"bow_matches": 1,
+		"rr": 8,
+		"carpm": 0.48
+	},
+	"SB Jakati": {
+		"bat_overs": 5,
+		"runs": 29,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 175,
+		"wickets": 9,
+		"bow_matches": 48,
+		"matches": 57,
+		"caught": 19,
+		"runout": 4,
+		"rr": 6,
+		"sr": 122,
+		"carpm": 0.40350877192982454
+	},
+	"DA Warner": {
+		"bat_overs": 464,
+		"runs": 4213,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 95,
+		"matches": 114,
+		"caught": 52,
+		"runout": 8,
+		"rr": 9,
+		"carpm": 0.5263157894736842
+	},
+	"D du Preez": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 2,
+		"matches": 2,
+		"bat_overs": 2,
+		"runs": 10,
+		"rr": 5
+	},
+	"RJ Harris": {
+		"bow_overs": 138,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 18,
+		"runs": 119,
+		"bat_matches": 11,
+		"matches": 37,
+		"caught": 18,
+		"runout": 0,
+		"bow_matches": 24,
+		"rr": 7,
+		"sr": 108,
+		"carpm": 0.4864864864864865
+	},
+	"A Singh": {
+		"bow_overs": 78,
+		"wickets": 6,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 20,
+		"matches": 23,
+		"bat_overs": 2,
+		"runs": 3,
+		"bat_matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 2,
+		"sr": 81,
+		"carpm": 0.043478260869565216
+	},
+	"M Morkel": {
+		"bow_overs": 272,
+		"wickets": 17,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 11,
+		"runout": 4,
+		"bow_matches": 52,
+		"matches": 70,
+		"bat_overs": 15,
+		"runs": 130,
+		"bat_matches": 15,
+		"rr": 9,
+		"sr": 100,
+		"carpm": 0.21428571428571427
+	},
+	"A Mithun": {
+		"bow_overs": 50,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 10,
+		"matches": 16,
+		"bat_overs": 4,
+		"runs": 37,
+		"bat_matches": 4,
+		"caught": 7,
+		"runout": 1,
+		"rr": 9,
+		"sr": 156,
+		"carpm": 0.5
+	},
+	"C Nanda": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 2,
+		"matches": 3,
+		"bat_matches": 1
+	},
+	"SS Sarkar": {
+		"bow_overs": 4,
+		"wickets": 1,
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 2,
+		"sr": 25
+	},
+	"AD Mathews": {
+		"bat_overs": 96,
+		"runs": 765,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 19,
+		"runout": 3,
+		"bow_overs": 127,
+		"wickets": 6,
+		"bow_matches": 25,
+		"matches": 46,
+		"bat_matches": 17,
+		"rr": 8,
+		"sr": 132,
+		"carpm": 0.4782608695652174
+	},
+	"J Botha": {
+		"bat_overs": 58,
+		"runs": 424,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 15,
+		"matches": 34,
+		"bow_overs": 109,
+		"wickets": 7,
+		"bat_matches": 12,
+		"caught": 16,
+		"runout": 3,
+		"rr": 7,
+		"sr": 97,
+		"carpm": 0.5588235294117647
+	},
+	"Mashrafe Mortaza": {
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"caught": 0,
+		"runout": 1,
+		"bow_matches": 1,
+		"matches": 1,
+		"carpm": 1
+	},
+	"LR Shukla (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"GJ Bailey": {
+		"bat_overs": 88,
+		"runs": 692,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 28,
+		"matches": 37,
+		"caught": 11,
+		"runout": 6,
+		"rr": 8,
+		"carpm": 0.4594594594594595
+	},
+	"AB McDonald": {
+		"bat_overs": 16,
+		"runs": 130,
+		"type": [
+			"batsman",
+			"bowler"
+		],
+		"bow_overs": 30,
+		"wickets": 6,
+		"bow_matches": 6,
+		"matches": 10,
+		"bat_matches": 4,
+		"rr": 8,
+		"sr": 31
+	},
+	"Y Nagar": {
+		"bat_overs": 43,
+		"runs": 309,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 4,
+		"matches": 22,
+		"bat_matches": 16,
+		"caught": 5,
+		"runout": 4,
+		"rr": 7,
+		"carpm": 0.4090909090909091
+	},
+	"CK Langeveldt": {
+		"bow_overs": 26,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 5,
+		"matches": 7,
+		"bat_overs": 1,
+		"runs": 8,
+		"bat_matches": 2,
+		"rr": 8,
+		"sr": 163
+	},
+	"SS Shaikh": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 1,
+		"runs": 6,
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 6,
+		"carpm": 2
+	},
+	"Mohammad Ashraful": {
+		"bat_overs": 2,
+		"runs": 5,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 2,
+		"runout": 0,
+		"matches": 1,
+		"rr": 3,
+		"carpm": 2
+	},
+	"RA Shaikh": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"Jaskaran Singh": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 4,
+		"matches": 7,
+		"bat_overs": 2,
+		"runs": 8,
+		"bat_matches": 3,
+		"rr": 4
+	},
+	"Anirudh Singh": {
+		"caught": 3,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 11,
+		"runs": 66,
+		"bat_matches": 4,
+		"matches": 5,
+		"rr": 6,
+		"carpm": 0.6
+	},
+	"CA Pujara": {
+		"bat_overs": 64,
+		"runs": 421,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 19,
+		"matches": 23,
+		"caught": 6,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.2608695652173913
+	},
+	"OA Shah": {
+		"bat_overs": 65,
+		"runs": 550,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 18,
+		"matches": 23,
+		"caught": 7,
+		"runout": 1,
+		"rr": 8,
+		"carpm": 0.34782608695652173
+	},
+	"SW Tait": {
+		"bow_overs": 85,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 20,
+		"matches": 21,
+		"caught": 5,
+		"runout": 1,
+		"bat_overs": 4,
+		"runs": 23,
+		"bat_matches": 1,
+		"rr": 6,
+		"sr": 106,
+		"carpm": 0.2857142857142857
+	},
+	"A Uniyal": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 1,
+		"runs": 4,
+		"bat_matches": 1,
+		"matches": 2,
+		"bow_matches": 1,
+		"rr": 4
+	},
+	"AP Tare": {
+		"bat_overs": 46,
+		"runs": 365,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 23,
+		"matches": 29,
+		"caught": 3,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.10344827586206896
+	},
+	"AT Rayudu": {
+		"bat_overs": 314,
+		"runs": 2518,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 83,
+		"matches": 109,
+		"caught": 45,
+		"runout": 13,
+		"rr": 8,
+		"carpm": 0.5321100917431193
+	},
+	"AA Jhunjhunwala": {
+		"bow_overs": 14,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 35,
+		"runs": 235,
+		"bat_matches": 14,
+		"matches": 21,
+		"bow_matches": 2,
+		"caught": 10,
+		"runout": 4,
+		"rr": 7,
+		"sr": 88,
+		"carpm": 0.6666666666666666
+	},
+	"P Dogra": {
+		"caught": 4,
+		"runout": 1,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 23,
+		"runs": 131,
+		"bat_matches": 10,
+		"matches": 13,
+		"rr": 6,
+		"carpm": 0.38461538461538464
+	},
+	"R Sathish": {
+		"bat_overs": 38,
+		"runs": 288,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 5,
+		"runout": 6,
+		"bow_overs": 23,
+		"wickets": 1,
+		"bow_matches": 9,
+		"matches": 29,
+		"bat_matches": 17,
+		"rr": 8,
+		"sr": 144,
+		"carpm": 0.3793103448275862
+	},
+	"R McLaren": {
+		"bat_overs": 28,
+		"runs": 172,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 60,
+		"wickets": 4,
+		"bow_matches": 11,
+		"matches": 18,
+		"bat_matches": 5,
+		"caught": 5,
+		"runout": 1,
+		"rr": 6,
+		"sr": 94,
+		"carpm": 0.3333333333333333
+	},
+	"AG Murtaza": {
+		"bow_overs": 43,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 8,
+		"matches": 12,
+		"caught": 3,
+		"runout": 1,
+		"bat_overs": 2,
+		"runs": 10,
+		"bat_matches": 2,
+		"rr": 5,
+		"sr": 269,
+		"carpm": 0.3333333333333333
+	},
+	"MS Bisla": {
+		"bat_overs": 118,
+		"runs": 894,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 20,
+		"runout": 10,
+		"matches": 39,
+		"bat_matches": 34,
+		"rr": 8,
+		"carpm": 0.7692307692307693
+	},
+	"EJG Morgan": {
+		"bat_overs": 116,
+		"runs": 907,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 24,
+		"runout": 5,
+		"matches": 48,
+		"bat_matches": 35,
+		"rr": 8,
+		"carpm": 0.6041666666666666
+	},
+	"RS Gavaskar": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 1,
+		"matches": 2,
+		"bat_overs": 1,
+		"runs": 2,
+		"bat_matches": 1,
+		"rr": 2
+	},
+	"JM Kemp": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 4,
+		"runs": 27,
+		"bat_matches": 2,
+		"matches": 5,
+		"bow_matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.2
+	},
+	"S Ladda": {
+		"bow_overs": 23,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 6,
+		"matches": 9,
+		"bat_overs": 2,
+		"runs": 1,
+		"bat_matches": 2,
+		"caught": 1,
+		"runout": 2,
+		"rr": 1,
+		"sr": 144,
+		"carpm": 0.3333333333333333
+	},
+	"FY Fazal (sub)": {
+		"caught": 1,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"Bipul Sharma": {
+		"bow_overs": 70,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 18,
+		"matches": 30,
+		"caught": 7,
+		"runout": 3,
+		"bat_overs": 20,
+		"runs": 190,
+		"bat_matches": 9,
+		"rr": 10,
+		"sr": 219,
+		"carpm": 0.3333333333333333
+	},
+	"SE Bond": {
+		"bow_overs": 31,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 8,
+		"bow_matches": 7,
+		"sr": 194
+	},
+	"Y Nagar (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 2
+	},
+	"KA Pollard": {
+		"bat_overs": 268,
+		"runs": 2494,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 204,
+		"wickets": 5,
+		"bow_matches": 43,
+		"matches": 122,
+		"caught": 64,
+		"runout": 12,
+		"bat_matches": 64,
+		"rr": 9,
+		"sr": 255,
+		"carpm": 0.6229508196721312
+	},
+	"MJ Lumb": {
+		"bat_overs": 32,
+		"runs": 297,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 9,
+		"matches": 12,
+		"caught": 5,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.4166666666666667
+	},
+	"DR Martyn": {
+		"bat_overs": 4,
+		"runs": 21,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 5
+	},
+	"S Narwal": {
+		"bat_overs": 5,
+		"runs": 39,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 18,
+		"wickets": 1,
+		"bow_matches": 4,
+		"matches": 7,
+		"bat_matches": 2,
+		"caught": 1,
+		"runout": 1,
+		"rr": 8,
+		"sr": 113,
+		"carpm": 0.2857142857142857
+	},
+	"UT Yadav": {
+		"bow_overs": 325,
+		"wickets": 16,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 69,
+		"matches": 93,
+		"bat_overs": 15,
+		"runs": 99,
+		"bat_matches": 17,
+		"caught": 23,
+		"runout": 4,
+		"rr": 7,
+		"sr": 127,
+		"carpm": 0.2903225806451613
+	},
+	"SJ Srivastava": {
+		"bow_overs": 49,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 13,
+		"matches": 14,
+		"caught": 2,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 5,
+		"bat_matches": 1,
+		"rr": 5,
+		"sr": 306,
+		"carpm": 0.14285714285714285
+	},
+	"AB Barath": {
+		"bat_overs": 7,
+		"runs": 44,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 6
+	},
+	"FY Fazal": {
+		"bat_overs": 29,
+		"runs": 207,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 7,
+		"matches": 12,
+		"caught": 6,
+		"runout": 1,
+		"bow_matches": 2,
+		"rr": 7,
+		"carpm": 0.5833333333333334
+	},
+	"AC Voges": {
+		"bat_overs": 23,
+		"runs": 190,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"caught": 1,
+		"runout": 3,
+		"matches": 8,
+		"bow_matches": 3,
+		"bat_matches": 2,
+		"rr": 8,
+		"carpm": 0.5
+	},
+	"AS Raut (sub)": {
+		"caught": 1,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"MD Mishra": {
+		"bat_overs": 34,
+		"runs": 254,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 17,
+		"matches": 17,
+		"caught": 1,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.058823529411764705
+	},
+	"R Sharma": {
+		"bow_overs": 150,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 30,
+		"matches": 44,
+		"bat_overs": 12,
+		"runs": 71,
+		"bat_matches": 11,
+		"caught": 10,
+		"runout": 1,
+		"rr": 6,
+		"sr": 117,
+		"carpm": 0.25
+	},
+	"GJ Bailey (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"J Theron": {
+		"bat_overs": 2,
+		"runs": 11,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 38,
+		"wickets": 5,
+		"caught": 1,
+		"runout": 3,
+		"bow_matches": 7,
+		"matches": 10,
+		"bat_matches": 3,
+		"rr": 6,
+		"sr": 48,
+		"carpm": 0.4
+	},
+	"KP Appanna (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"NLTC Perera": {
+		"bow_overs": 114,
+		"wickets": 6,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 25,
+		"matches": 37,
+		"caught": 12,
+		"runout": 6,
+		"bat_overs": 52,
+		"runs": 461,
+		"bat_matches": 12,
+		"rr": 9,
+		"sr": 119,
+		"carpm": 0.4864864864864865
+	},
+	"Mandeep Singh": {
+		"bat_overs": 150,
+		"runs": 1160,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 49,
+		"matches": 62,
+		"caught": 27,
+		"runout": 2,
+		"rr": 8,
+		"carpm": 0.46774193548387094
+	},
+	"KM Jadhav": {
+		"bat_overs": 109,
+		"runs": 936,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 45,
+		"matches": 60,
+		"caught": 23,
+		"runout": 7,
+		"rr": 9,
+		"carpm": 0.5
+	},
+	"KB Arun Karthik": {
+		"bat_overs": 8,
+		"runs": 64,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 13,
+		"caught": 11,
+		"runout": 4,
+		"rr": 8,
+		"carpm": 1.1538461538461537
+	},
+	"KAJ Roach": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 1,
+		"runs": 10,
+		"bat_matches": 1,
+		"matches": 2,
+		"caught": 1,
+		"runout": 0,
+		"bow_matches": 1,
+		"rr": 10,
+		"carpm": 0.5
+	},
+	"JP Duminy (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"PD Collingwood": {
+		"bat_overs": 25,
+		"runs": 213,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 14,
+		"wickets": 1,
+		"bow_matches": 3,
+		"matches": 8,
+		"caught": 3,
+		"runout": 0,
+		"bat_matches": 3,
+		"rr": 9,
+		"sr": 88,
+		"carpm": 0.375
+	},
+	"C Ganapathy": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"MB Parmar": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"SB Wagh": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 7,
+		"matches": 8,
+		"caught": 1,
+		"runout": 1,
+		"bat_matches": 1,
+		"carpm": 0.25
+	},
+	"DE Bollinger": {
+		"bow_overs": 96,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 6,
+		"runout": 2,
+		"bow_matches": 25,
+		"matches": 27,
+		"bat_overs": 4,
+		"runs": 24,
+		"bat_matches": 1,
+		"rr": 6,
+		"sr": 75,
+		"carpm": 0.2962962962962963
+	},
+	"M Kaif (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"JD Unadkat": {
+		"bow_overs": 159,
+		"wickets": 11,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 41,
+		"matches": 46,
+		"caught": 9,
+		"runout": 4,
+		"bat_overs": 2,
+		"runs": 6,
+		"bat_matches": 1,
+		"rr": 3,
+		"sr": 90,
+		"carpm": 0.2826086956521739
+	},
+	"AP Dole": {
+		"bat_overs": 4,
+		"runs": 35,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 12,
+		"wickets": 2,
+		"caught": 2,
+		"runout": 0,
+		"matches": 3,
+		"bow_matches": 1,
+		"bat_matches": 1,
+		"rr": 9,
+		"sr": 38,
+		"carpm": 0.6666666666666666
+	},
+	"AN Ahmed": {
+		"bow_overs": 58,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 4,
+		"runs": 38,
+		"bat_matches": 5,
+		"matches": 17,
+		"bow_matches": 11,
+		"caught": 2,
+		"runout": 3,
+		"rr": 10,
+		"sr": 121,
+		"carpm": 0.29411764705882354
+	},
+	"MR Marsh": {
+		"bow_overs": 52,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 11,
+		"matches": 20,
+		"bat_overs": 32,
+		"runs": 234,
+		"bat_matches": 7,
+		"caught": 7,
+		"runout": 1,
+		"rr": 7,
+		"sr": 163,
+		"carpm": 0.4
+	},
+	"L Ablish": {
+		"bow_overs": 7,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 2,
+		"matches": 3,
+		"bat_matches": 1,
+		"sr": 22
+	},
+	"RS Sodhi": {
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 1,
+		"matches": 2,
+		"caught": 2,
+		"runout": 0,
+		"carpm": 1
+	},
+	"B Sumanth": {
+		"caught": 4,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 5,
+		"bat_overs": 6,
+		"runs": 36,
+		"bat_matches": 3,
+		"rr": 6,
+		"carpm": 0.8
+	},
+	"S Sriram": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 6,
+		"runs": 39,
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 7
+	},
+	"S Dhawan (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"C Madan": {
+		"bat_overs": 3,
+		"runs": 22,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 0,
+		"runout": 1,
+		"matches": 1,
+		"rr": 7,
+		"carpm": 1
+	},
+	"AG Paunikar": {
+		"bat_overs": 10,
+		"runs": 56,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 4,
+		"matches": 5,
+		"caught": 1,
+		"runout": 1,
+		"rr": 6,
+		"carpm": 0.4
+	},
+	"AJ Finch": {
+		"bat_overs": 203,
+		"runs": 1705,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 2,
+		"matches": 64,
+		"bat_matches": 55,
+		"caught": 21,
+		"runout": 3,
+		"rr": 8,
+		"carpm": 0.375
+	},
+	"STR Binny": {
+		"bat_overs": 99,
+		"runs": 807,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 88,
+		"wickets": 5,
+		"bow_matches": 29,
+		"matches": 76,
+		"caught": 18,
+		"runout": 5,
+		"bat_matches": 34,
+		"rr": 8,
+		"sr": 110,
+		"carpm": 0.3026315789473684
+	},
+	"ND Doshi": {
+		"bow_overs": 9,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 4,
+		"matches": 4,
+		"sr": 56
+	},
+	"TG Southee": {
+		"bow_overs": 111,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 20,
+		"matches": 29,
+		"bat_overs": 6,
+		"runs": 57,
+		"bat_matches": 5,
+		"caught": 10,
+		"runout": 2,
+		"rr": 10,
+		"sr": 173,
+		"carpm": 0.41379310344827586
+	},
+	"S Randiv": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 7,
+		"matches": 8,
+		"caught": 2,
+		"runout": 1,
+		"bat_overs": 1,
+		"runs": 2,
+		"bat_matches": 1,
+		"rr": 2,
+		"carpm": 0.375
+	},
+	"IR Jaggi": {
+		"bat_overs": 16,
+		"runs": 84,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 7,
+		"caught": 2,
+		"runout": 0,
+		"rr": 5,
+		"carpm": 0.2857142857142857
+	},
+	"DT Christian": {
+		"bat_overs": 56,
+		"runs": 439,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 120,
+		"wickets": 6,
+		"bow_matches": 21,
+		"matches": 36,
+		"bat_matches": 11,
+		"caught": 18,
+		"runout": 4,
+		"rr": 8,
+		"sr": 125,
+		"carpm": 0.6111111111111112
+	},
+	"AL Menaria": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 4,
+		"runout": 0,
+		"matches": 26,
+		"bat_overs": 59,
+		"runs": 416,
+		"bat_matches": 17,
+		"bow_matches": 6,
+		"rr": 7,
+		"carpm": 0.15384615384615385
+	},
+	"AUK Pathan": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 4,
+		"runs": 42,
+		"bat_matches": 4,
+		"matches": 7,
+		"bow_matches": 2,
+		"caught": 2,
+		"runout": 1,
+		"rr": 11,
+		"carpm": 0.42857142857142855
+	},
+	"RV Gomez": {
+		"bat_overs": 8,
+		"runs": 60,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 16,
+		"wickets": 2,
+		"bow_matches": 8,
+		"matches": 13,
+		"caught": 3,
+		"runout": 1,
+		"bat_matches": 3,
+		"rr": 8,
+		"sr": 50,
+		"carpm": 0.3076923076923077
+	},
+	"MA Agarwal": {
+		"bat_overs": 111,
+		"runs": 864,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 41,
+		"matches": 49,
+		"caught": 20,
+		"runout": 1,
+		"rr": 8,
+		"carpm": 0.42857142857142855
+	},
+	"UBT Chand": {
+		"bat_overs": 50,
+		"runs": 327,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 16,
+		"matches": 21,
+		"caught": 8,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.38095238095238093
+	},
+	"JEC Franklin": {
+		"bow_overs": 25,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 6,
+		"runout": 0,
+		"matches": 19,
+		"bow_matches": 4,
+		"bat_overs": 49,
+		"runs": 342,
+		"bat_matches": 12,
+		"rr": 7,
+		"sr": 156,
+		"carpm": 0.3157894736842105
+	},
+	"DJ Jacobs": {
+		"caught": 3,
+		"runout": 2,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 16,
+		"runs": 102,
+		"bat_matches": 4,
+		"matches": 7,
+		"rr": 6,
+		"carpm": 0.7142857142857143
+	},
+	"AC Thomas": {
+		"bow_overs": 52,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 12,
+		"matches": 15,
+		"bat_overs": 3,
+		"runs": 20,
+		"caught": 3,
+		"runout": 1,
+		"bat_matches": 3,
+		"rr": 7,
+		"sr": 325,
+		"carpm": 0.26666666666666666
+	},
+	"Sunny Singh": {
+		"bat_overs": 5,
+		"runs": 44,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 6,
+		"caught": 1,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.16666666666666666
+	},
+	"WD Parnell": {
+		"bow_overs": 96,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 20,
+		"matches": 26,
+		"caught": 5,
+		"runout": 1,
+		"bat_overs": 13,
+		"runs": 74,
+		"bat_matches": 5,
+		"rr": 6,
+		"sr": 150,
+		"carpm": 0.23076923076923078
+	},
+	"NJ Rimmington": {
+		"type": [
+			"batsman",
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"RN ten Doeschate": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 7,
+		"runout": 3,
+		"matches": 25,
+		"bat_overs": 38,
+		"runs": 338,
+		"bat_matches": 17,
+		"bow_matches": 3,
+		"rr": 9,
+		"carpm": 0.4
+	},
+	"S Nadeem": {
+		"bow_overs": 182,
+		"wickets": 7,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 39,
+		"matches": 54,
+		"bat_overs": 11,
+		"runs": 33,
+		"bat_matches": 10,
+		"caught": 9,
+		"runout": 5,
+		"rr": 3,
+		"sr": 163,
+		"carpm": 0.25925925925925924
+	},
+	"BA Bhatt": {
+		"bow_overs": 48,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 14,
+		"matches": 15,
+		"bat_overs": 1,
+		"runs": 6,
+		"bat_matches": 1,
+		"rr": 6,
+		"sr": 300
+	},
+	"NL McCullum (sub)": {
+		"caught": 0,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"JJ van der Wath": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 3,
+		"runs": 19,
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 6
+	},
+	"S Aravind": {
+		"bow_overs": 126,
+		"wickets": 8,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 9,
+		"runs": 64,
+		"bat_matches": 8,
+		"matches": 38,
+		"caught": 5,
+		"runout": 1,
+		"bow_matches": 28,
+		"rr": 7,
+		"sr": 98,
+		"carpm": 0.15789473684210525
+	},
+	"R Ninan": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 1,
+		"runs": 4,
+		"bat_matches": 1,
+		"matches": 2,
+		"caught": 1,
+		"runout": 0,
+		"rr": 4,
+		"carpm": 0.5
+	},
+	"Shakib Al Hasan": {
+		"bow_overs": 152,
+		"wickets": 10,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 26,
+		"matches": 43,
+		"caught": 7,
+		"runout": 5,
+		"bat_overs": 64,
+		"runs": 538,
+		"bat_matches": 16,
+		"rr": 8,
+		"sr": 95,
+		"carpm": 0.27906976744186046
+	},
+	"MS Wade": {
+		"bat_overs": 5,
+		"runs": 23,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 5
+	},
+	"TD Paine": {
+		"bat_overs": 5,
+		"runs": 15,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 3
+	},
+	"DH Yagnik": {
+		"caught": 12,
+		"runout": 6,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 23,
+		"runs": 187,
+		"bat_matches": 12,
+		"matches": 23,
+		"rr": 8,
+		"carpm": 0.782608695652174
+	},
+	"BJ Haddin": {
+		"bat_overs": 2,
+		"runs": 18,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 9
+	},
+	"J Syed Mohammad": {
+		"bow_overs": 31,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 5,
+		"matches": 11,
+		"bat_overs": 4,
+		"runs": 30,
+		"bat_matches": 5,
+		"caught": 1,
+		"runout": 2,
+		"rr": 8,
+		"sr": 194,
+		"carpm": 0.2727272727272727
+	},
+	"VR Aaron": {
+		"bow_overs": 145,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 36,
+		"matches": 40,
+		"bat_overs": 9,
+		"runs": 48,
+		"bat_matches": 4,
+		"caught": 2,
+		"runout": 2,
+		"rr": 5,
+		"sr": 227,
+		"carpm": 0.1
+	},
+	"NL McCullum": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 1,
+		"runout": 0,
+		"bat_overs": 4,
+		"runs": 28,
+		"bat_matches": 1,
+		"matches": 2,
+		"bow_matches": 1,
+		"rr": 7,
+		"carpm": 0.5
+	},
+	"JE Taylor": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 1,
+		"runs": 4,
+		"bat_matches": 1,
+		"matches": 5,
+		"bow_matches": 4,
+		"rr": 4
+	},
+	"A Mukund (sub)": {
+		"caught": 0,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"KMDN Kulasekara": {
+		"bow_overs": 17,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 3,
+		"matches": 5,
+		"caught": 3,
+		"runout": 1,
+		"bat_matches": 1,
+		"sr": 106,
+		"carpm": 0.8
+	},
+	"TR Birt": {
+		"bat_overs": 9,
+		"runs": 79,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 5,
+		"matches": 5,
+		"rr": 9
+	},
+	"Shakib Al Hasan (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"Harpreet Singh": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 4,
+		"runs": 20,
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 5,
+		"carpm": 0.6666666666666666
+	},
+	"M Klinger": {
+		"bat_overs": 12,
+		"runs": 77,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 4,
+		"matches": 4,
+		"rr": 6
+	},
+	"F du Plessis (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"P Parameswaran": {
+		"bow_overs": 25,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 7,
+		"matches": 8,
+		"bat_matches": 1,
+		"sr": 156
+	},
+	"AC Blizzard": {
+		"bat_overs": 15,
+		"runs": 126,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 4,
+		"runout": 0,
+		"matches": 7,
+		"bat_matches": 6,
+		"rr": 8,
+		"carpm": 0.5714285714285714
+	},
+	"I Malhotra": {
+		"bat_overs": 1,
+		"runs": 7,
+		"type": [
+			"batsman"
+		],
+		"bow_matches": 1,
+		"matches": 1,
+		"rr": 7
+	},
+	"CA Ingram": {
+		"bat_overs": 4,
+		"runs": 27,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 7
+	},
+	"KB Arun Karthik (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"B Kumar": {
+		"bow_overs": 329,
+		"wickets": 33,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 16,
+		"runout": 5,
+		"bow_matches": 70,
+		"matches": 90,
+		"bat_overs": 26,
+		"runs": 164,
+		"bat_matches": 19,
+		"rr": 6,
+		"sr": 62,
+		"carpm": 0.23333333333333334
+	},
+	"CJ Ferguson": {
+		"bat_overs": 19,
+		"runs": 101,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 7,
+		"matches": 8,
+		"caught": 2,
+		"runout": 0,
+		"rr": 5,
+		"carpm": 0.25
+	},
+	"AA Kazi": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"Anand Rajan": {
+		"bow_overs": 26,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"caught": 3,
+		"runout": 2,
+		"bow_matches": 7,
+		"matches": 8,
+		"sr": 163,
+		"carpm": 0.625
+	},
+	"P Prasanth": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"Y Gnaneswara Rao": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 1,
+		"matches": 2,
+		"bat_overs": 3,
+		"runs": 20,
+		"bat_matches": 1,
+		"rr": 7,
+		"carpm": 1
+	},
+	"AA Chavan": {
+		"bat_overs": 2,
+		"runs": 12,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 3,
+		"runout": 0,
+		"bow_matches": 11,
+		"matches": 13,
+		"bow_overs": 39,
+		"wickets": 1,
+		"bat_matches": 1,
+		"rr": 6,
+		"sr": 244,
+		"carpm": 0.23076923076923078
+	},
+	"S Rana": {
+		"bat_overs": 13,
+		"runs": 96,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 2,
+		"matches": 9,
+		"caught": 3,
+		"runout": 0,
+		"bat_matches": 5,
+		"rr": 7,
+		"carpm": 0.3333333333333333
+	},
+	"KH Devdhar": {
+		"type": [
+			"fielder"
+		],
+		"matches": 1
+	},
+	"JP Faulkner": {
+		"bow_overs": 206,
+		"wickets": 18,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 34,
+		"matches": 60,
+		"caught": 16,
+		"runout": 8,
+		"bat_overs": 65,
+		"runs": 554,
+		"bat_matches": 25,
+		"rr": 9,
+		"sr": 72,
+		"carpm": 0.4
+	},
+	"SS Mundhe": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"RW Price": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"F du Plessis": {
+		"bat_overs": 167,
+		"runs": 1343,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 30,
+		"matches": 49,
+		"bow_matches": 1,
+		"caught": 29,
+		"runout": 4,
+		"rr": 8,
+		"carpm": 0.673469387755102
+	},
+	"RE Levi": {
+		"bat_overs": 12,
+		"runs": 89,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 4,
+		"matches": 6,
+		"caught": 2,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.3333333333333333
+	},
+	"GJ Maxwell": {
+		"bow_overs": 53,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 125,
+		"runs": 1306,
+		"bat_matches": 31,
+		"matches": 57,
+		"caught": 22,
+		"runout": 6,
+		"bow_matches": 16,
+		"rr": 10,
+		"sr": 166,
+		"carpm": 0.49122807017543857
+	},
+	"M de Lange": {
+		"bow_overs": 19,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 5,
+		"matches": 5,
+		"sr": 59
+	},
+	"SPD Smith": {
+		"bat_overs": 213,
+		"runs": 1784,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 51,
+		"matches": 67,
+		"caught": 39,
+		"runout": 9,
+		"bow_matches": 1,
+		"rr": 8,
+		"carpm": 0.7164179104477612
+	},
+	"MN Samuels": {
+		"bat_overs": 28,
+		"runs": 174,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 34,
+		"wickets": 2,
+		"bow_matches": 6,
+		"matches": 15,
+		"bat_matches": 8,
+		"caught": 2,
+		"runout": 0,
+		"rr": 6,
+		"sr": 106,
+		"carpm": 0.13333333333333333
+	},
+	"SA Yadav": {
+		"bat_overs": 77,
+		"runs": 643,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 36,
+		"matches": 50,
+		"caught": 23,
+		"runout": 2,
+		"bow_matches": 1,
+		"rr": 8,
+		"carpm": 0.5
+	},
+	"KK Cooper": {
+		"bat_overs": 11,
+		"runs": 122,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 11,
+		"runout": 4,
+		"bow_overs": 95,
+		"wickets": 10,
+		"matches": 25,
+		"bow_matches": 18,
+		"bat_matches": 6,
+		"rr": 11,
+		"sr": 59,
+		"carpm": 0.6
+	},
+	"DAJ Bracewell": {
+		"bow_overs": 4,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 1,
+		"runout": 1,
+		"bat_overs": 1,
+		"runs": 12,
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 12,
+		"sr": 25,
+		"carpm": 2
+	},
+	"HV Patel": {
+		"bat_overs": 6,
+		"runs": 52,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 10,
+		"runout": 2,
+		"matches": 35,
+		"bow_overs": 111,
+		"wickets": 5,
+		"bat_matches": 9,
+		"bow_matches": 23,
+		"rr": 9,
+		"sr": 139,
+		"carpm": 0.34285714285714286
+	},
+	"Ankit Sharma": {
+		"bow_overs": 59,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 11,
+		"runs": 89,
+		"bat_matches": 5,
+		"matches": 20,
+		"bow_matches": 14,
+		"caught": 4,
+		"runout": 0,
+		"rr": 8,
+		"sr": 184,
+		"carpm": 0.2
+	},
+	"DJ Harris": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 2,
+		"runout": 0,
+		"bat_overs": 16,
+		"runs": 119,
+		"bat_matches": 4,
+		"matches": 4,
+		"rr": 7,
+		"carpm": 0.5
+	},
+	"TP Sudhindra": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 3,
+		"matches": 3
+	},
+	"SP Narine": {
+		"bow_overs": 313,
+		"wickets": 28,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 31,
+		"runs": 292,
+		"bat_matches": 19,
+		"matches": 82,
+		"bow_matches": 60,
+		"caught": 9,
+		"runout": 3,
+		"rr": 9,
+		"sr": 70,
+		"carpm": 0.14634146341463414
+	},
+	"GB Hogg": {
+		"bow_overs": 75,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 4,
+		"runs": 22,
+		"bat_matches": 4,
+		"matches": 21,
+		"bow_matches": 17,
+		"caught": 4,
+		"runout": 1,
+		"rr": 6,
+		"sr": 94,
+		"carpm": 0.23809523809523808
+	},
+	"RR Bhatkal": {
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"caught": 1,
+		"runout": 0,
+		"bow_matches": 1,
+		"matches": 1,
+		"carpm": 1
+	},
+	"TM Dilshan (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"P Awana": {
+		"bow_overs": 124,
+		"wickets": 7,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 4,
+		"runout": 1,
+		"matches": 33,
+		"bow_matches": 30,
+		"bat_overs": 2,
+		"runs": 5,
+		"bat_matches": 2,
+		"rr": 3,
+		"sr": 111,
+		"carpm": 0.15151515151515152
+	},
+	"V Pratap Singh": {
+		"bow_overs": 34,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 9,
+		"matches": 9,
+		"sr": 106
+	},
+	"CJ McKay": {
+		"bat_overs": 2,
+		"runs": 8,
+		"type": [
+			"batsman",
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 2,
+		"rr": 4
+	},
+	"T Mishra": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"AD Russell": {
+		"bow_overs": 104,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 17,
+		"matches": 34,
+		"bat_overs": 56,
+		"runs": 615,
+		"bat_matches": 16,
+		"caught": 7,
+		"runout": 2,
+		"rr": 11,
+		"sr": 217,
+		"carpm": 0.2647058823529412
+	},
+	"A Ashish Reddy": {
+		"bow_overs": 43,
+		"wickets": 6,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 13,
+		"matches": 28,
+		"bat_overs": 31,
+		"runs": 288,
+		"bat_matches": 13,
+		"caught": 8,
+		"runout": 2,
+		"rr": 9,
+		"sr": 45,
+		"carpm": 0.35714285714285715
+	},
+	"N Saini": {
+		"bat_overs": 23,
+		"runs": 145,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 11,
+		"runout": 2,
+		"matches": 10,
+		"bat_matches": 5,
+		"rr": 6,
+		"carpm": 1.3
+	},
+	"DA Miller": {
+		"bat_overs": 182,
+		"runs": 1647,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 49,
+		"matches": 65,
+		"caught": 42,
+		"runout": 4,
+		"rr": 9,
+		"carpm": 0.7076923076923077
+	},
+	"Azhar Mahmood": {
+		"bat_overs": 50,
+		"runs": 409,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 88,
+		"wickets": 3,
+		"bow_matches": 14,
+		"matches": 23,
+		"bat_matches": 9,
+		"caught": 7,
+		"runout": 1,
+		"rr": 8,
+		"sr": 183,
+		"carpm": 0.34782608695652173
+	},
+	"P Negi": {
+		"bat_overs": 45,
+		"runs": 379,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 15,
+		"matches": 40,
+		"bow_overs": 102,
+		"wickets": 4,
+		"bow_matches": 21,
+		"caught": 10,
+		"runout": 5,
+		"rr": 8,
+		"sr": 159,
+		"carpm": 0.375
+	},
+	"A Chandila": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 12,
+		"matches": 12,
+		"bat_overs": 1,
+		"runs": 4,
+		"caught": 2,
+		"runout": 0,
+		"rr": 4,
+		"carpm": 0.16666666666666666
+	},
+	"LA Pomersbach (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"LJ Wright": {
+		"caught": 2,
+		"runout": 2,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 7,
+		"bat_overs": 10,
+		"runs": 110,
+		"bat_matches": 3,
+		"rr": 11,
+		"carpm": 0.5714285714285714
+	},
+	"RJ Peterson": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 5,
+		"runs": 37,
+		"bat_matches": 4,
+		"matches": 5,
+		"caught": 1,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.2
+	},
+	"DJ Harris (sub)": {
+		"caught": 3,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1.5
+	},
+	"R Shukla": {
+		"bow_overs": 21,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 4,
+		"matches": 7,
+		"bat_overs": 4,
+		"runs": 19,
+		"caught": 3,
+		"runout": 2,
+		"bat_matches": 2,
+		"rr": 5,
+		"sr": 44,
+		"carpm": 0.7142857142857143
+	},
+	"NLTC Perera (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"P Dogra (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"BB Samantray": {
+		"bat_overs": 19,
+		"runs": 132,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 8,
+		"caught": 3,
+		"runout": 1,
+		"rr": 7,
+		"carpm": 0.5
+	},
+	"MJ Clarke": {
+		"bat_overs": 15,
+		"runs": 104,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 6,
+		"bow_overs": 9,
+		"wickets": 1,
+		"caught": 1,
+		"runout": 0,
+		"bow_matches": 1,
+		"rr": 7,
+		"sr": 56,
+		"carpm": 0.16666666666666666
+	},
+	"DA Miller (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"BW Hilfenhaus": {
+		"bow_overs": 62,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 17,
+		"matches": 17,
+		"caught": 1,
+		"runout": 1,
+		"sr": 78,
+		"carpm": 0.11764705882352941
+	},
+	"Gurkeerat Singh": {
+		"caught": 13,
+		"runout": 1,
+		"type": [
+			"fielder",
+			"batsman",
+			"bowler"
+		],
+		"bat_overs": 45,
+		"runs": 362,
+		"bat_matches": 18,
+		"matches": 28,
+		"bow_overs": 13,
+		"wickets": 1,
+		"bow_matches": 4,
+		"rr": 8,
+		"sr": 81,
+		"carpm": 0.5
+	},
+	"WP Saha (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"AP Majumdar": {
+		"bat_overs": 12,
+		"runs": 90,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 4,
+		"matches": 4,
+		"rr": 8
+	},
+	"PA Reddy": {
+		"bat_overs": 27,
+		"runs": 172,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 10,
+		"matches": 10,
+		"caught": 2,
+		"runout": 1,
+		"rr": 6,
+		"carpm": 0.3
+	},
+	"K Upadhyay": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 1,
+		"runs": 12,
+		"bat_matches": 2,
+		"matches": 3,
+		"bow_matches": 1,
+		"caught": 1,
+		"runout": 0,
+		"rr": 12,
+		"carpm": 0.3333333333333333
+	},
+	"CA Lynn": {
+		"caught": 6,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 42,
+		"runs": 410,
+		"bat_matches": 10,
+		"matches": 12,
+		"rr": 10,
+		"carpm": 0.5
+	},
+	"PJ Sangwan (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"Sunny Gupta": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1
+	},
+	"MC Juneja": {
+		"bat_overs": 21,
+		"runs": 138,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 7,
+		"matches": 7,
+		"rr": 7
+	},
+	"MG Johnson": {
+		"bow_overs": 187,
+		"wickets": 12,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 13,
+		"runout": 4,
+		"bow_matches": 37,
+		"matches": 48,
+		"bat_overs": 25,
+		"runs": 166,
+		"bat_matches": 9,
+		"rr": 7,
+		"sr": 97,
+		"carpm": 0.3541666666666667
+	},
+	"JJ Bumrah": {
+		"bow_overs": 173,
+		"wickets": 14,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 45,
+		"matches": 47,
+		"bat_overs": 4,
+		"runs": 26,
+		"bat_matches": 2,
+		"caught": 2,
+		"runout": 3,
+		"rr": 7,
+		"sr": 77,
+		"carpm": 0.10638297872340426
+	},
+	"KK Nair": {
+		"bat_overs": 149,
+		"runs": 1205,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 42,
+		"matches": 53,
+		"caught": 12,
+		"runout": 6,
+		"rr": 8,
+		"carpm": 0.33962264150943394
+	},
+	"GH Vihari": {
+		"bat_overs": 52,
+		"runs": 299,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 16,
+		"matches": 21,
+		"caught": 6,
+		"runout": 2,
+		"bow_matches": 1,
+		"rr": 6,
+		"carpm": 0.38095238095238093
+	},
+	"MDKJ Perera": {
+		"bat_overs": 2,
+		"runs": 15,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 8
+	},
+	"S Badree": {
+		"bow_overs": 42,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 8,
+		"matches": 12,
+		"bat_overs": 4,
+		"runs": 15,
+		"bat_matches": 4,
+		"caught": 2,
+		"runout": 0,
+		"rr": 4,
+		"sr": 88,
+		"carpm": 0.16666666666666666
+	},
+	"AS Rajpoot": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 2,
+		"runs": 6,
+		"bat_matches": 1,
+		"matches": 11,
+		"bow_matches": 9,
+		"caught": 1,
+		"runout": 1,
+		"rr": 3,
+		"carpm": 0.18181818181818182
+	},
+	"B Laughlin": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 1,
+		"runs": 4,
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 4
+	},
+	"M Vohra": {
+		"bat_overs": 120,
+		"runs": 1008,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 38,
+		"matches": 43,
+		"caught": 13,
+		"runout": 1,
+		"rr": 8,
+		"carpm": 0.32558139534883723
+	},
+	"Mohammed Shami": {
+		"bow_overs": 105,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 1,
+		"runout": 7,
+		"bat_overs": 7,
+		"runs": 49,
+		"bat_matches": 6,
+		"matches": 31,
+		"bow_matches": 25,
+		"rr": 7,
+		"sr": 131,
+		"carpm": 0.25806451612903225
+	},
+	"BMAJ Mendis": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 2,
+		"runout": 1,
+		"bat_overs": 4,
+		"runs": 23,
+		"bat_matches": 2,
+		"matches": 3,
+		"bow_matches": 1,
+		"rr": 6,
+		"carpm": 1
+	},
+	"R Dhawan": {
+		"caught": 6,
+		"runout": 2,
+		"type": [
+			"fielder",
+			"bowler",
+			"batsman"
+		],
+		"matches": 26,
+		"bow_matches": 16,
+		"bow_overs": 77,
+		"wickets": 4,
+		"bat_overs": 22,
+		"runs": 159,
+		"bat_matches": 7,
+		"rr": 7,
+		"sr": 120,
+		"carpm": 0.3076923076923077
+	},
+	"CH Morris": {
+		"bow_overs": 167,
+		"wickets": 16,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 20,
+		"runout": 4,
+		"bow_matches": 28,
+		"matches": 48,
+		"bat_overs": 44,
+		"runs": 456,
+		"bat_matches": 16,
+		"rr": 10,
+		"sr": 65,
+		"carpm": 0.5
+	},
+	"KL Rahul": {
+		"caught": 12,
+		"runout": 5,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 35,
+		"bat_overs": 95,
+		"runs": 763,
+		"bat_matches": 24,
+		"rr": 8,
+		"carpm": 0.4857142857142857
+	},
+	"DT Christian (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"Harmeet Singh (2)": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"S Kaul": {
+		"bow_overs": 70,
+		"wickets": 6,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 18,
+		"matches": 21,
+		"caught": 4,
+		"runout": 0,
+		"bat_overs": 2,
+		"runs": 9,
+		"bat_matches": 3,
+		"rr": 5,
+		"sr": 73,
+		"carpm": 0.19047619047619047
+	},
+	"MM Sharma": {
+		"bow_overs": 251,
+		"wickets": 17,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 63,
+		"matches": 75,
+		"caught": 14,
+		"runout": 4,
+		"bat_overs": 17,
+		"runs": 115,
+		"bat_matches": 10,
+		"rr": 7,
+		"sr": 92,
+		"carpm": 0.24
+	},
+	"R Rampaul": {
+		"bat_overs": 8,
+		"runs": 56,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 44,
+		"wickets": 1,
+		"bow_matches": 11,
+		"matches": 12,
+		"caught": 4,
+		"runout": 0,
+		"bat_matches": 1,
+		"rr": 7,
+		"sr": 275,
+		"carpm": 0.3333333333333333
+	},
+	"SMSM Senanayake": {
+		"bow_overs": 31,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 5,
+		"matches": 8,
+		"bat_overs": 3,
+		"runs": 11,
+		"bat_matches": 3,
+		"caught": 2,
+		"runout": 0,
+		"rr": 4,
+		"sr": 48,
+		"carpm": 0.25
+	},
+	"SV Samson": {
+		"caught": 34,
+		"runout": 16,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 186,
+		"runs": 1466,
+		"bat_matches": 53,
+		"matches": 66,
+		"rr": 8,
+		"carpm": 0.7575757575757576
+	},
+	"BJ Rohrer": {
+		"bat_overs": 23,
+		"runs": 205,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 6,
+		"matches": 8,
+		"caught": 3,
+		"runout": 2,
+		"bow_matches": 1,
+		"rr": 9,
+		"carpm": 0.625
+	},
+	"Q de Kock": {
+		"bat_overs": 91,
+		"runs": 768,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 7,
+		"runout": 8,
+		"matches": 26,
+		"bat_matches": 23,
+		"rr": 8,
+		"carpm": 0.5769230769230769
+	},
+	"JO Holder": {
+		"bow_overs": 36,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 7,
+		"matches": 11,
+		"caught": 5,
+		"runout": 0,
+		"bat_overs": 5,
+		"runs": 41,
+		"bat_matches": 2,
+		"rr": 8,
+		"sr": 75,
+		"carpm": 0.45454545454545453
+	},
+	"IC Pandey": {
+		"bow_overs": 75,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 1,
+		"matches": 24,
+		"bow_matches": 21,
+		"caught": 6,
+		"runout": 0,
+		"sr": 117,
+		"carpm": 0.25
+	},
+	"Sandeep Sharma": {
+		"bow_overs": 204,
+		"wickets": 14,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 42,
+		"matches": 56,
+		"bat_overs": 6,
+		"runs": 29,
+		"bat_matches": 8,
+		"caught": 7,
+		"runout": 3,
+		"rr": 5,
+		"sr": 91,
+		"carpm": 0.17857142857142858
+	},
+	"CM Gautam": {
+		"bat_overs": 25,
+		"runs": 199,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 11,
+		"matches": 13,
+		"caught": 3,
+		"runout": 2,
+		"rr": 8,
+		"carpm": 0.38461538461538464
+	},
+	"YS Chahal": {
+		"bow_overs": 195,
+		"wickets": 9,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 44,
+		"matches": 55,
+		"caught": 13,
+		"runout": 3,
+		"bat_overs": 5,
+		"runs": 16,
+		"bat_matches": 6,
+		"rr": 3,
+		"sr": 135,
+		"carpm": 0.2909090909090909
+	},
+	"BB McCullum (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"X Thalaivan Sargunam": {
+		"bat_overs": 3,
+		"runs": 10,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 3
+	},
+	"DJG Sammy": {
+		"bat_overs": 40,
+		"runs": 317,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 39,
+		"wickets": 5,
+		"caught": 9,
+		"runout": 4,
+		"matches": 22,
+		"bow_matches": 7,
+		"bat_matches": 9,
+		"rr": 8,
+		"sr": 49,
+		"carpm": 0.5909090909090909
+	},
+	"KW Richardson": {
+		"bow_overs": 52,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 11,
+		"matches": 14,
+		"bat_overs": 6,
+		"runs": 36,
+		"bat_matches": 2,
+		"caught": 4,
+		"runout": 1,
+		"rr": 6,
+		"sr": 163,
+		"carpm": 0.35714285714285715
+	},
+	"P Suyal": {
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"caught": 1,
+		"runout": 0,
+		"matches": 5,
+		"bow_matches": 4,
+		"carpm": 0.2
+	},
+	"UA Birla": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 2,
+		"bat_overs": 2,
+		"runs": 9,
+		"bat_matches": 1,
+		"rr": 5,
+		"carpm": 0.5
+	},
+	"PV Tambe": {
+		"bow_overs": 108,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 28,
+		"matches": 33,
+		"bat_overs": 6,
+		"runs": 20,
+		"bat_matches": 5,
+		"caught": 1,
+		"runout": 0,
+		"rr": 3,
+		"sr": 225,
+		"carpm": 0.030303030303030304
+	},
+	"Sachin Baby": {
+		"caught": 5,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 13,
+		"bat_overs": 17,
+		"runs": 145,
+		"bat_matches": 9,
+		"bow_matches": 2,
+		"rr": 9,
+		"carpm": 0.6153846153846154
+	},
+	"Parvez Rasool": {
+		"bow_overs": 32,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 3,
+		"runs": 18,
+		"bat_matches": 3,
+		"matches": 11,
+		"bow_matches": 7,
+		"caught": 3,
+		"runout": 0,
+		"rr": 6,
+		"sr": 200,
+		"carpm": 0.2727272727272727
+	},
+	"MG Neser": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"NM Coulter-Nile": {
+		"bow_overs": 94,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 7,
+		"runout": 2,
+		"bat_overs": 8,
+		"runs": 55,
+		"bat_matches": 3,
+		"matches": 25,
+		"bow_matches": 19,
+		"rr": 7,
+		"sr": 118,
+		"carpm": 0.36
+	},
+	"R Shukla (sub)": {
+		"caught": 0,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"AR Patel (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"CJ Anderson": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 11,
+		"runout": 0,
+		"bat_overs": 66,
+		"runs": 542,
+		"bat_matches": 15,
+		"matches": 27,
+		"bow_matches": 10,
+		"rr": 8,
+		"carpm": 0.4074074074074074
+	},
+	"MA Starc": {
+		"bow_overs": 98,
+		"wickets": 15,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 19,
+		"matches": 26,
+		"caught": 16,
+		"runout": 1,
+		"bat_overs": 16,
+		"runs": 107,
+		"bat_matches": 6,
+		"rr": 7,
+		"sr": 41,
+		"carpm": 0.6538461538461539
+	},
+	"NJ Maddinson": {
+		"bat_overs": 3,
+		"runs": 20,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 3,
+		"matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.3333333333333333
+	},
+	"JDS Neesham": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 2,
+		"matches": 4,
+		"bat_overs": 7,
+		"runs": 45,
+		"bat_matches": 2,
+		"rr": 6
+	},
+	"AR Patel": {
+		"bow_overs": 205,
+		"wickets": 20,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 79,
+		"runs": 634,
+		"bat_matches": 18,
+		"matches": 59,
+		"bow_matches": 38,
+		"caught": 20,
+		"runout": 3,
+		"rr": 8,
+		"sr": 64,
+		"carpm": 0.3898305084745763
+	},
+	"WD Parnell (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"AV Wankhade (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"BR Dunk": {
+		"caught": 3,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 6,
+		"runs": 44,
+		"bat_matches": 3,
+		"matches": 3,
+		"rr": 7,
+		"carpm": 1
+	},
+	"RR Rossouw": {
+		"bat_overs": 8,
+		"runs": 54,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 5,
+		"caught": 2,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.4
+	},
+	"MC Henriques (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"R Tewatia": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 6,
+		"matches": 7,
+		"bat_overs": 4,
+		"runs": 39,
+		"bat_matches": 1,
+		"caught": 0,
+		"runout": 1,
+		"rr": 10,
+		"carpm": 0.14285714285714285
+	},
+	"Shivam Sharma": {
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 18,
+		"wickets": 2,
+		"bow_matches": 5,
+		"matches": 5,
+		"caught": 1,
+		"runout": 0,
+		"sr": 56,
+		"carpm": 0.2
+	},
+	"Imran Tahir": {
+		"bow_overs": 117,
+		"wickets": 13,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 28,
+		"matches": 32,
+		"bat_overs": 4,
+		"runs": 18,
+		"bat_matches": 4,
+		"caught": 3,
+		"runout": 0,
+		"rr": 5,
+		"sr": 56,
+		"carpm": 0.09375
+	},
+	"LMP Simmons": {
+		"bat_overs": 140,
+		"runs": 1127,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 10,
+		"runout": 1,
+		"matches": 29,
+		"bat_matches": 23,
+		"bow_overs": 3,
+		"wickets": 1,
+		"bow_matches": 1,
+		"rr": 8,
+		"sr": 19,
+		"carpm": 0.3793103448275862
+	},
+	"VH Zol": {
+		"bat_overs": 4,
+		"runs": 29,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 2,
+		"matches": 2,
+		"rr": 7
+	},
+	"RR Rossouw (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"V Shankar": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 1,
+		"matches": 5,
+		"bat_overs": 12,
+		"runs": 105,
+		"bat_matches": 4,
+		"caught": 1,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.2
+	},
+	"BCJ Cutting": {
+		"bat_overs": 11,
+		"runs": 135,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 27,
+		"wickets": 3,
+		"caught": 3,
+		"runout": 2,
+		"bow_matches": 4,
+		"matches": 9,
+		"bat_matches": 3,
+		"rr": 12,
+		"sr": 56,
+		"carpm": 0.5555555555555556
+	},
+	"K Santokie": {
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"caught": 1,
+		"runout": 0,
+		"bow_matches": 2,
+		"matches": 2,
+		"carpm": 0.5
+	},
+	"S Gopal": {
+		"bow_overs": 19,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 6,
+		"matches": 6,
+		"bat_overs": 4,
+		"runs": 14,
+		"rr": 4,
+		"sr": 119
+	},
+	"BE Hendricks": {
+		"bow_overs": 25,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 3,
+		"runout": 0,
+		"bow_matches": 6,
+		"matches": 7,
+		"sr": 156,
+		"carpm": 0.42857142857142855
+	},
+	"PJ Cummins": {
+		"bow_overs": 61,
+		"wickets": 6,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 9,
+		"matches": 16,
+		"caught": 2,
+		"runout": 1,
+		"bat_overs": 9,
+		"runs": 80,
+		"bat_matches": 6,
+		"rr": 9,
+		"sr": 64,
+		"carpm": 0.1875
+	},
+	"JW Hastings": {
+		"bow_overs": 10,
+		"wickets": 1,
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 3,
+		"matches": 3,
+		"sr": 63
+	},
+	"Karanveer Singh": {
+		"bow_overs": 34,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 2,
+		"runout": 1,
+		"matches": 9,
+		"bow_matches": 4,
+		"bat_overs": 3,
+		"runs": 12,
+		"bat_matches": 4,
+		"rr": 4,
+		"sr": 213,
+		"carpm": 0.3333333333333333
+	},
+	"BR Dunk (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"DJ Muthuswami": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 6,
+		"matches": 6
+	},
+	"SS Iyer": {
+		"caught": 9,
+		"runout": 3,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 105,
+		"runs": 849,
+		"bat_matches": 29,
+		"matches": 32,
+		"rr": 8,
+		"carpm": 0.375
+	},
+	"DJ Hooda": {
+		"bat_overs": 44,
+		"runs": 386,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 20,
+		"matches": 36,
+		"bow_matches": 9,
+		"caught": 9,
+		"runout": 3,
+		"rr": 9,
+		"carpm": 0.3333333333333333
+	},
+	"TA Boult": {
+		"bow_overs": 57,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 3,
+		"runout": 3,
+		"bow_matches": 13,
+		"matches": 14,
+		"bat_overs": 1,
+		"runs": 5,
+		"bat_matches": 1,
+		"rr": 5,
+		"sr": 119,
+		"carpm": 0.42857142857142855
+	},
+	"KS Williamson": {
+		"bat_overs": 52,
+		"runs": 437,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 12,
+		"matches": 15,
+		"caught": 8,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.5333333333333333
+	},
+	"SA Abbott": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 2,
+		"runs": 16,
+		"bat_matches": 1,
+		"matches": 2,
+		"bow_matches": 1,
+		"rr": 8
+	},
+	"KC Cariappa": {
+		"bow_overs": 34,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 5,
+		"matches": 10,
+		"bat_overs": 3,
+		"runs": 15,
+		"caught": 2,
+		"runout": 0,
+		"bat_matches": 3,
+		"rr": 5,
+		"sr": 213,
+		"carpm": 0.2
+	},
+	"J Suchith": {
+		"bow_overs": 40,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 7,
+		"runout": 1,
+		"bat_overs": 5,
+		"runs": 51,
+		"bat_matches": 2,
+		"matches": 14,
+		"bow_matches": 6,
+		"rr": 10,
+		"sr": 125,
+		"carpm": 0.5714285714285714
+	},
+	"RG More": {
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"caught": 1,
+		"runout": 0,
+		"bow_matches": 2,
+		"matches": 2,
+		"carpm": 0.5
+	},
+	"D Wiese": {
+		"bow_overs": 46,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 15,
+		"runs": 136,
+		"bat_matches": 6,
+		"matches": 15,
+		"caught": 5,
+		"runout": 0,
+		"bow_matches": 8,
+		"rr": 9,
+		"sr": 288,
+		"carpm": 0.3333333333333333
+	},
+	"HH Pandya": {
+		"bat_overs": 49,
+		"runs": 445,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 60,
+		"wickets": 3,
+		"bow_matches": 9,
+		"matches": 37,
+		"bat_matches": 21,
+		"caught": 24,
+		"runout": 2,
+		"rr": 9,
+		"sr": 125,
+		"carpm": 0.7027027027027027
+	},
+	"MJ McClenaghan": {
+		"bow_overs": 157,
+		"wickets": 7,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 33,
+		"matches": 40,
+		"bat_overs": 7,
+		"runs": 64,
+		"bat_matches": 7,
+		"caught": 1,
+		"runout": 1,
+		"rr": 9,
+		"sr": 140,
+		"carpm": 0.05
+	},
+	"SN Khan": {
+		"bat_overs": 16,
+		"runs": 180,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 10,
+		"matches": 11,
+		"caught": 0,
+		"runout": 1,
+		"rr": 11,
+		"carpm": 0.09090909090909091
+	},
+	"J Yadav (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"HH Pandya (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"SN Thakur": {
+		"bat_overs": 1,
+		"runs": 7,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 41,
+		"wickets": 1,
+		"bow_matches": 12,
+		"matches": 13,
+		"caught": 4,
+		"runout": 3,
+		"rr": 7,
+		"sr": 256,
+		"carpm": 0.5384615384615384
+	},
+	"B Aparajith (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"GS Sandhu": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 2
+	},
+	"J Yadav": {
+		"bow_overs": 29,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 2,
+		"runout": 0,
+		"matches": 10,
+		"bow_matches": 9,
+		"bat_overs": 2,
+		"runs": 8,
+		"rr": 4,
+		"sr": 181,
+		"carpm": 0.2
+	},
+	"BB Sran": {
+		"bow_overs": 55,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 13,
+		"matches": 16,
+		"caught": 2,
+		"runout": 2,
+		"bat_overs": 1,
+		"runs": 5,
+		"bat_matches": 1,
+		"rr": 5,
+		"sr": 172,
+		"carpm": 0.25
+	},
+	"UBT Chand (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"JC Buttler": {
+		"bat_overs": 60,
+		"runs": 554,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 21,
+		"matches": 24,
+		"caught": 8,
+		"runout": 1,
+		"rr": 9,
+		"carpm": 0.375
+	},
+	"M Ashwin": {
+		"bow_overs": 28,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 9,
+		"matches": 10,
+		"bat_matches": 1,
+		"sr": 175
+	},
+	"C Munro": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 1,
+		"matches": 4,
+		"bat_overs": 5,
+		"runs": 35,
+		"caught": 2,
+		"runout": 0,
+		"bat_matches": 1,
+		"rr": 7,
+		"carpm": 0.5
+	},
+	"CR Brathwaite": {
+		"bat_overs": 9,
+		"runs": 105,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 29,
+		"wickets": 2,
+		"bow_matches": 6,
+		"matches": 10,
+		"caught": 3,
+		"runout": 1,
+		"bat_matches": 4,
+		"rr": 12,
+		"sr": 91,
+		"carpm": 0.4
+	},
+	"MP Stoinis": {
+		"bat_overs": 22,
+		"runs": 172,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 32,
+		"wickets": 1,
+		"bow_matches": 9,
+		"matches": 12,
+		"caught": 3,
+		"runout": 1,
+		"bat_matches": 2,
+		"rr": 8,
+		"sr": 200,
+		"carpm": 0.3333333333333333
+	},
+	"P Sahu": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 5,
+		"matches": 5,
+		"bat_overs": 2,
+		"runs": 19,
+		"rr": 10
+	},
+	"Ishan Kishan": {
+		"bat_overs": 41,
+		"runs": 333,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 14,
+		"matches": 16,
+		"caught": 5,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.3125
+	},
+	"Mustafizur Rahman": {
+		"bow_overs": 63,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 17,
+		"matches": 17,
+		"caught": 2,
+		"runout": 0,
+		"sr": 131,
+		"carpm": 0.11764705882352941
+	},
+	"AF Milne": {
+		"bow_overs": 18,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 5,
+		"runout": 0,
+		"bow_matches": 2,
+		"matches": 5,
+		"bat_overs": 2,
+		"runs": 7,
+		"bat_matches": 2,
+		"rr": 4,
+		"sr": 113,
+		"carpm": 1
+	},
+	"Kuldeep Yadav": {
+		"bow_overs": 52,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 12,
+		"matches": 15,
+		"caught": 3,
+		"runout": 3,
+		"bat_overs": 4,
+		"runs": 20,
+		"bat_matches": 1,
+		"rr": 5,
+		"sr": 325,
+		"carpm": 0.4
+	},
+	"KH Pandya": {
+		"bat_overs": 50,
+		"runs": 501,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 69,
+		"wickets": 2,
+		"bow_matches": 12,
+		"matches": 25,
+		"bat_matches": 11,
+		"caught": 3,
+		"runout": 1,
+		"rr": 10,
+		"sr": 216,
+		"carpm": 0.16
+	},
+	"AD Nath": {
+		"bat_overs": 4,
+		"runs": 20,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 4,
+		"matches": 4,
+		"rr": 5
+	},
+	"KJ Abbott": {
+		"bow_overs": 16,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 4,
+		"matches": 5,
+		"bat_overs": 1,
+		"runs": 13,
+		"bat_matches": 1,
+		"rr": 13,
+		"sr": 100
+	},
+	"MJ Guptill": {
+		"bat_overs": 23,
+		"runs": 194,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 7,
+		"matches": 10,
+		"caught": 6,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.6
+	},
+	"TM Head": {
+		"bat_overs": 24,
+		"runs": 214,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 5,
+		"matches": 10,
+		"bow_matches": 4,
+		"caught": 3,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.3
+	},
+	"T Shamsi": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 4,
+		"matches": 4
+	},
+	"NS Naik": {
+		"bat_overs": 5,
+		"runs": 27,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"caught": 2,
+		"runout": 1,
+		"matches": 2,
+		"bat_matches": 1,
+		"rr": 5,
+		"carpm": 1.5
+	},
+	"RR Pant": {
+		"bat_overs": 61,
+		"runs": 577,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 21,
+		"matches": 24,
+		"caught": 11,
+		"runout": 1,
+		"rr": 9,
+		"carpm": 0.5
+	},
+	"S Kaushik": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 9,
+		"matches": 10,
+		"bat_matches": 1
+	},
+	"SW Billings": {
+		"bat_overs": 28,
+		"runs": 240,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 11,
+		"caught": 7,
+		"runout": 1,
+		"rr": 9,
+		"carpm": 0.7272727272727273
+	},
+	"PSP Handscomb": {
+		"bat_overs": 2,
+		"runs": 6,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 3
+	},
+	"SM Boland": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 2
+	},
+	"Swapnil Singh": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 3,
+		"runs": 12,
+		"bat_matches": 1,
+		"matches": 5,
+		"bow_matches": 4,
+		"rr": 4
+	},
+	"R Sathish (sub)": {
+		"caught": 3,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 2
+	},
+	"UT Khawaja": {
+		"bat_overs": 17,
+		"runs": 134,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 6,
+		"matches": 6,
+		"caught": 1,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.16666666666666666
+	},
+	"V Shankar (sub)": {
+		"caught": 4,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 5,
+		"carpm": 1
+	},
+	"CJ Jordan": {
+		"bow_overs": 30,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 7,
+		"matches": 10,
+		"caught": 3,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 4,
+		"bat_matches": 1,
+		"rr": 4,
+		"sr": 47,
+		"carpm": 0.3
+	},
+	"A Zampa": {
+		"bow_overs": 36,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 9,
+		"matches": 11,
+		"bat_overs": 1,
+		"runs": 5,
+		"bat_matches": 2,
+		"rr": 5,
+		"sr": 113
+	},
+	"HM Amla": {
+		"bat_overs": 67,
+		"runs": 600,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 16,
+		"matches": 16,
+		"rr": 9
+	},
+	"F Behardien": {
+		"bat_overs": 2,
+		"runs": 14,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 7,
+		"carpm": 0.3333333333333333
+	},
+	"N Rana": {
+		"bat_overs": 57,
+		"runs": 461,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bat_matches": 14,
+		"matches": 17,
+		"bow_matches": 1,
+		"caught": 4,
+		"runout": 0,
+		"rr": 8,
+		"carpm": 0.23529411764705882
+	},
+	"DL Chahar": {
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 3,
+		"matches": 5,
+		"caught": 1,
+		"runout": 0,
+		"bat_overs": 1,
+		"runs": 14,
+		"bat_matches": 1,
+		"rr": 14,
+		"carpm": 0.2
+	},
+	"ER Dwivedi": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"matches": 3,
+		"bat_overs": 2,
+		"runs": 29,
+		"bat_matches": 1,
+		"rr": 15,
+		"carpm": 0.6666666666666666
+	},
+	"TS Mills": {
+		"bow_overs": 18,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 2,
+		"runs": 9,
+		"bat_matches": 2,
+		"matches": 5,
+		"bow_matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 5,
+		"sr": 56,
+		"carpm": 0.2
+	},
+	"A Choudhary": {
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bat_overs": 3,
+		"runs": 25,
+		"bat_matches": 2,
+		"matches": 5,
+		"bow_matches": 3,
+		"rr": 8
+	},
+	"Rashid Khan": {
+		"bow_overs": 52,
+		"wickets": 7,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"bow_matches": 10,
+		"matches": 14,
+		"caught": 5,
+		"runout": 2,
+		"bat_overs": 1,
+		"runs": 12,
+		"bat_matches": 1,
+		"rr": 12,
+		"sr": 46,
+		"carpm": 0.5
+	},
+	"CJ Jordan (sub)": {
+		"caught": 1,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"BA Stokes": {
+		"bow_overs": 44,
+		"wickets": 5,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bat_overs": 36,
+		"runs": 324,
+		"bat_matches": 6,
+		"matches": 12,
+		"caught": 5,
+		"runout": 2,
+		"bow_matches": 4,
+		"rr": 9,
+		"sr": 55,
+		"carpm": 0.5833333333333334
+	},
+	"JJ Roy": {
+		"bat_overs": 7,
+		"runs": 60,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 3,
+		"caught": 1,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.3333333333333333
+	},
+	"CR Woakes": {
+		"bow_overs": 44,
+		"wickets": 4,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 9,
+		"matches": 13,
+		"bat_overs": 8,
+		"runs": 46,
+		"caught": 5,
+		"runout": 0,
+		"bat_matches": 3,
+		"rr": 6,
+		"sr": 69,
+		"carpm": 0.38461538461538464
+	},
+	"T Natarajan": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 6,
+		"matches": 6
+	},
+	"RD Chahar": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 2,
+		"matches": 2,
+		"caught": 1,
+		"runout": 0,
+		"carpm": 0.5
+	},
+	"Vishnu Vinod": {
+		"bat_overs": 4,
+		"runs": 19,
+		"type": [
+			"batsman",
+			"fielder"
+		],
+		"bat_matches": 2,
+		"matches": 3,
+		"rr": 5
+	},
+	"B Stanlake": {
+		"bow_overs": 8,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"caught": 1,
+		"runout": 0,
+		"bow_matches": 2,
+		"matches": 2,
+		"sr": 50,
+		"carpm": 0.5
+	},
+	"Basil Thampi": {
+		"bat_overs": 5,
+		"runs": 32,
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_overs": 44,
+		"wickets": 2,
+		"bow_matches": 10,
+		"matches": 12,
+		"bat_matches": 2,
+		"caught": 2,
+		"runout": 1,
+		"rr": 6,
+		"sr": 138,
+		"carpm": 0.25
+	},
+	"Tejas Baroka": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"R Dhawan (sub)": {
+		"caught": 2,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1
+	},
+	"RA Tripathi": {
+		"bat_overs": 44,
+		"runs": 411,
+		"type": [
+			"batsman",
+			"fielder",
+			"bowler"
+		],
+		"bat_matches": 11,
+		"matches": 14,
+		"caught": 5,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.35714285714285715
+	},
+	"C de Grandhomme": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 5,
+		"matches": 12,
+		"bat_overs": 15,
+		"runs": 130,
+		"caught": 2,
+		"runout": 1,
+		"bat_matches": 6,
+		"rr": 9,
+		"carpm": 0.25
+	},
+	"AJ Tye": {
+		"bow_overs": 20,
+		"wickets": 2,
+		"type": [
+			"bowler",
+			"batsman"
+		],
+		"bow_matches": 4,
+		"matches": 6,
+		"bat_overs": 5,
+		"runs": 56,
+		"bat_matches": 2,
+		"rr": 11,
+		"sr": 63
+	},
+	"LH Ferguson": {
+		"type": [
+			"batsman",
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 4,
+		"matches": 4,
+		"caught": 0,
+		"runout": 1,
+		"carpm": 0.25
+	},
+	"Mohammad Nabi": {
+		"type": [
+			"batsman",
+			"bowler"
+		],
+		"bow_overs": 11,
+		"wickets": 2,
+		"bow_matches": 3,
+		"matches": 3,
+		"sr": 34
+	},
+	"Mohammed Siraj": {
+		"bow_overs": 23,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"fielder"
+		],
+		"bow_matches": 6,
+		"matches": 6,
+		"caught": 1,
+		"runout": 0,
+		"sr": 48,
+		"carpm": 0.16666666666666666
+	},
+	"K Rabada": {
+		"bow_overs": 22,
+		"wickets": 3,
+		"type": [
+			"bowler",
+			"fielder",
+			"batsman"
+		],
+		"caught": 0,
+		"runout": 2,
+		"bat_overs": 11,
+		"runs": 60,
+		"bat_matches": 2,
+		"matches": 6,
+		"bow_matches": 4,
+		"rr": 5,
+		"sr": 46,
+		"carpm": 0.3333333333333333
+	},
+	"Washington Sundar": {
+		"bow_overs": 29,
+		"wickets": 1,
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 6,
+		"matches": 10,
+		"bat_overs": 2,
+		"runs": 12,
+		"caught": 5,
+		"runout": 0,
+		"bat_matches": 3,
+		"rr": 6,
+		"sr": 181,
+		"carpm": 0.5
+	},
+	"SS Agarwal": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	},
+	"NB Singh": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 2
+	},
+	"DM Bravo": {
+		"bat_overs": 1,
+		"runs": 6,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 6
+	},
+	"Ankit Soni": {
+		"type": [
+			"bowler",
+			"batsman",
+			"fielder"
+		],
+		"bow_matches": 6,
+		"matches": 6,
+		"bat_overs": 1,
+		"runs": 9,
+		"caught": 1,
+		"runout": 0,
+		"rr": 9,
+		"carpm": 0.16666666666666666
+	},
+	"SP Jackson": {
+		"caught": 2,
+		"runout": 1,
+		"type": [
+			"fielder",
+			"batsman"
+		],
+		"bat_overs": 5,
+		"runs": 38,
+		"bat_matches": 2,
+		"matches": 3,
+		"rr": 8,
+		"carpm": 1
+	},
+	"AR Bawne": {
+		"bat_overs": 2,
+		"runs": 12,
+		"type": [
+			"batsman"
+		],
+		"bat_matches": 1,
+		"matches": 1,
+		"rr": 6
+	},
+	"MA Agarwal (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"R Powell (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"CR Brathwaite (sub)": {
+		"caught": 1,
+		"runout": 0,
+		"type": [
+			"fielder"
+		],
+		"matches": 1,
+		"carpm": 1
+	},
+	"MJ Henry": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 2,
+		"matches": 2
+	},
+	"J Suchith (sub)": {
+		"caught": 2,
+		"runout": 1,
+		"type": [
+			"fielder"
+		],
+		"matches": 2,
+		"carpm": 1.5
+	},
+	"Avesh Khan": {
+		"type": [
+			"bowler"
+		],
+		"bow_matches": 1,
+		"matches": 1
+	}
+}
